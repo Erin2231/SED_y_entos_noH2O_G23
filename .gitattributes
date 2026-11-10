@@ -1,0 +1,30 @@
+# Finales de línea: LF en el repo, cada SO los adapta al sacar los ficheros
+* text=auto
+
+# Código y texto
+*.vhd   text eol=lf
+*.vhdl  text eol=lf
+*.xdc   text eol=lf
+*.tcl   text eol=lf
+*.c     text eol=lf
+*.h     text eol=lf
+*.md    text eol=lf
+*.ioc   text eol=lf
+
+# Ficheros de Eclipse/CubeIDE y Vivado: que Git no los mezcle línea a línea mal
+*.xpr      text eol=lf merge=binary
+.cproject  text eol=lf merge=binary
+.project   text eol=lf merge=binary
+
+# Binarios: nunca diff ni conversión de finales de línea
+*.stl   binary
+*.step  binary
+*.stp   binary
+*.f3d   binary
+*.FCStd binary
+*.3mf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.pdf   binary
+*.xci   text eol=lf

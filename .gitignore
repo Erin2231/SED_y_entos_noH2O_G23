@@ -1,0 +1,99 @@
+# ============================================================
+# .gitignore del repositorio SED (expendedora FPGA + Snake STM32)
+# Regla general: se sube lo que se escribe a mano, no lo que se genera.
+# ============================================================
+
+# ---------- Vivado (expendedora-fpga) ----------
+# Se suben: src/*.vhd, tb/*, constraints/*.xdc, ip/**/*.xci, scripts/*.tcl
+# y el .xpr. Todo lo que Vivado regenera se ignora.
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+.Xil/
+NA/
+*.jou
+*.log
+*.str
+*.pb
+*.backup.*
+*.debug
+webtalk*
+usage_statistics_webtalk.*
+vivado_pid*.zip
+vivado*.str
+hs_err_pid*.log
+# Salidas de IP generadas (solo se sube el .xci)
+expendedora-fpga/ip/**/*
+!expendedora-fpga/ip/**/
+!expendedora-fpga/ip/**/*.xci
+!expendedora-fpga/ip/**/*.xcix
+!expendedora-fpga/ip/README.md
+# Bitstream: no se sube (se adjunta en las Releases para la defensa)
+*.bit
+*.ltx
+*.dcp
+
+# GHDL / ModelSim / GTKWave
+*.o
+*.cf
+work-obj*.cf
+*.ghw
+*.vcd
+*.fst
+transcript
+work/
+modelsim.ini
+
+# ---------- STM32CubeIDE (snake-arcade) ----------
+# Se suben: Core/, Drivers/ (HAL y CMSIS), el .ioc, .project, .cproject,
+# el script del enlazador (*.ld) y el *.launch de depuración.
+**/Debug/
+**/Release/
+.settings/
+.metadata/
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+*.srec
+*.mxproject.bak
+*.ioc.bak
+.recommenders/
+RemoteSystemsTempFiles/
+
+# Tests de la lógica en PC
+snake-arcade/tests/build/
+*.exe
+*.out
+a.out
+
+# ---------- CAD e impresión 3D ----------
+# Se suben: nativo (Fusion .f3d / FreeCAD .FCStd), STEP y STL.
+# Los G-code dependen de cada impresora: no se suben.
+*.gcode
+*.bgcode
+*.3mf.bak
+*.FCStd1
+*.FCBak
+*.stl.bak
+*.tmp
+~$*
+*.bak
+
+# ---------- Editores y sistema ----------
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
