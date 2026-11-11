@@ -3,6 +3,7 @@
 ## Antes de pedir revisión
 
 - [ ] He seguido la [GUÍA GIT](../blob/main/GUIA_GIT.md): rama propia, `git pull` de `main` y sin carpetas generadas (`Debug/`, `.runs/`, `.Xil/`)
+- [ ] Mi tarjeta del tablero está en **Revisión** y abajo pongo `Closes #n`
 - [ ] Mi email de Git es el de mi cuenta de GitHub (mis commits salen con mi foto)
 
 ## Qué cambia
