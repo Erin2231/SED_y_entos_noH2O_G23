@@ -94,7 +94,8 @@ git push
 - Nombre: `<pieza>_v<versión>.<ext>`, por ejemplo `frontal_v1.step`.
 - El programa de CAD es Fusion 360 (ver `requirements.md`).
 
-## 6. Issues
+## 6. Issues y tablero
 
 Usad los issues de GitHub como lista de tareas: una tarea, un issue, asignado a quien la hace.
+Todas van al tablero Kanban (pestaña Projects). Reglas en la [GUÍA GIT](GUIA_GIT.md#cómo-usamos-el-tablero).
 En el PR escribid `Closes #12` para cerrarlo al fusionar.
