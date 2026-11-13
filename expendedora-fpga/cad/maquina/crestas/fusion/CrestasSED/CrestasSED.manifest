@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "script",
+	"author": "SED G23",
+	"description": {
+		"": "Crea las crestas en U (CR-1, CR-2) y la caja del canal de no válidas (CR-3) de la columna de monedas"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}

@@ -12,7 +12,7 @@ Los pines de la FPGA son de 3,3 V y **no toleran 5 V**.
 | 1 | Servo SG90 (9 g) | 2 | Compuerta de monedas (1 de repuesto) | 2-3 € c/u | [ ] |
 | 2 | Motor paso a paso 28BYJ-48 5 V + placa ULN2003 | 3 | Una espiral por producto | 2-4 € c/u | [ ] |
 | 3 | MOSFET canal P (p. ej. AO3401 o IRF9540) o PNP + resistencias | 3 | Habilitar cada motor compartiendo las 4 fases | < 1 € | [ ] |
-| 4 | LED IR 3 mm 940 nm + fototransistor 940 nm | 6 parejas | 3 en la rampa, 1 en la caída, 2 de repuesto | 3-5 € lote | [ ] |
+| 4 | LED IR 3 mm 940 nm + fototransistor 940 nm | 9 parejas | 7 en la rampa, 1 en la caída, 1 de repuesto | 3-5 € lote | [ ] |
 | 5 | Resistencias 220 Ω y 10 kΩ (surtido) | lote | LEDs IR y pull-ups a 3,3 V | 2-3 € | [ ] |
 | 6 | Pantalla OLED 0,96" SSD1306 SPI (7 pines) | 1 | Mensajes. Ojo: que sea SSD1306 y SPI, no I2C ni SH1106 | 4-6 € | [ ] |
 | 7 | Pulsadores de panel 12 mm | 4 | 3 productos + cancelar | 3-5 € | [ ] |

@@ -1,6 +1,13 @@
 # CAD de la carcasa
 
-Por ahora vacío. Cada pieza se sube en tres formatos:
+Las piezas ya modeladas van por módulos, cada uno con su README:
+
+| Carpeta | Contenido |
+| --- | --- |
+| `rampa-monedas/` | Carril de monedas A, cubilete B, trampilla y acople del servo: modelo, planos, STEP, STL y script de Fusion |
+| `maquina/` | Bocetos, plano del corte 1, crestas en U y canal (`crestas/`), pulsador de cancelar (`pulsador/`) |
+
+Para piezas nuevas hechas a mano en Fusion, cada pieza se sube en tres formatos:
 
 | Carpeta | Contenido |
 | --- | --- |

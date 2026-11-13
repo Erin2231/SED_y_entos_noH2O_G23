@@ -1,0 +1,624 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='297.0mm' height='420.0mm' viewBox='0 0 297.0 420.0' font-family='DejaVu Sans, Arial, sans-serif' xmlns:c2pa="http://c2pa.org/manifest">
+<defs><pattern id='hm' width='1.6' height='1.6' patternUnits='userSpaceOnUse' patternTransform='rotate(45)'><rect width='1.6' height='1.6' fill='#d3dae3'/><line x1='0' y1='0' x2='0' y2='1.6' stroke='#5b6b80' stroke-width='0.18'/></pattern><pattern id='hw' width='2.2' height='2.2' patternUnits='userSpaceOnUse' patternTransform='rotate(-45)'><rect width='2.2' height='2.2' fill='#ebe7e1'/><line x1='0' y1='0' x2='0' y2='2.2' stroke='#a39886' stroke-width='0.18'/></pattern><pattern id='hp' width='2' height='2' patternUnits='userSpaceOnUse' patternTransform='rotate(45)'><rect width='2' height='2' fill='#f3f3f3'/><line x1='0' y1='0' x2='0' y2='2' stroke='#b5b5b5' stroke-width='0.15'/></pattern><marker id='m' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='4' markerHeight='4' orient='auto-start-reverse'><path d='M0,1L10,5L0,9z' fill='#8b1e1e'/></marker><marker id='mb' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='4' markerHeight='4' orient='auto-start-reverse'><path d='M0,1L10,5L0,9z' fill='#2f5d8a'/></marker></defs>
+<rect width='297.0' height='420.0' fill='white'/>
+<rect x='8' y='8' width='281.0' height='404.0' fill='none' stroke='#222' stroke-width='0.5'/>
+<path d='M199.00,237.00 L34.00,237.00 L34.00,233.00 L199.00,233.00 L199.00,237.00 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M199.00,31.00 L34.00,31.00 L34.00,27.00 L199.00,27.00 L199.00,31.00 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M38.00,203.50 L34.00,203.50 L34.00,152.00 L38.00,152.00 L38.00,203.50 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M38.00,146.00 L34.00,146.00 L34.00,92.00 L38.00,92.00 L38.00,146.00 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M38.00,80.00 L34.00,80.00 L34.00,67.25 L38.00,67.25 L38.00,80.00 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M38.00,37.75 L34.00,37.75 L34.00,31.00 L38.00,31.00 L38.00,37.75 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M199.00,203.50 L195.00,203.50 L195.00,31.00 L199.00,31.00 L199.00,203.50 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M71.50,233.00 L34.00,233.00 L34.00,204.50 L38.00,204.50 L38.00,231.75 L70.25,231.75 L70.25,204.50 L71.50,204.50 L71.50,233.00 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M199.00,233.00 L161.50,233.00 L161.50,204.50 L162.75,204.50 L162.75,231.75 L195.00,231.75 L195.00,204.50 L199.00,204.50 L199.00,233.00 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M74.00,233.00 L71.50,233.00 L71.50,228.00 L74.00,228.00 L74.00,233.00 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M161.50,233.00 L159.00,233.00 L159.00,228.00 L161.50,228.00 L161.50,233.00 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M84.00,178.00 L82.50,178.00 L82.50,106.00 L84.00,106.00 L84.00,178.00 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M99.50,168.50 L98.00,168.50 L98.00,119.05 L99.50,119.05 L99.50,168.50 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M98.00,120.78 L98.00,119.05 L115.36,109.02 L134.00,119.79 L134.00,121.52 L115.36,110.76 L98.00,120.78 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M69.00,201.40 L69.00,199.67 L145.50,155.50 L174.00,171.95 L174.00,173.69 L145.50,157.23 L69.00,201.40 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M135.50,145.50 L134.00,145.50 L134.00,125.50 L135.50,125.50 L135.50,145.50 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M157.00,145.50 L157.00,125.50 L155.50,125.50 L155.50,145.50 L157.00,145.50 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M138.40,141.20 L135.85,141.20 L135.85,140.00 L155.15,140.00 L155.15,141.20 L152.60,141.20 L152.60,143.00 L149.40,143.00 L149.40,141.20 L147.25,141.20 L147.25,143.00 L143.75,143.00 L143.75,141.20 L141.60,141.20 L141.60,143.00 L138.40,143.00 L138.40,141.20 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M105.36,99.02 L103.86,99.02 L103.86,79.02 L105.36,79.02 L105.36,99.02 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M126.86,99.02 L126.86,79.02 L125.36,79.02 L125.36,99.02 L126.86,99.02 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M108.26,94.72 L105.71,94.72 L105.71,93.52 L125.01,93.52 L125.01,94.72 L122.46,94.72 L122.46,96.52 L119.26,96.52 L119.26,94.72 L117.11,94.72 L117.11,96.52 L113.61,96.52 L113.61,94.72 L111.46,94.72 L111.46,96.52 L108.26,96.52 L108.26,94.72 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M36.00,67.00 L36.00,62.72 L109.57,75.69 L109.83,74.18 L36.00,61.16 L36.00,59.60 L34.00,59.25 L34.00,67.00 L36.00,67.00 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M34.00,57.09 L110.47,70.57 L112.67,58.07 L95.70,55.08 L95.67,55.14 L95.64,55.20 L95.61,55.25 L95.57,55.31 L95.53,55.36 L95.48,55.41 L95.43,55.44 L95.36,55.45 L95.31,55.42 L95.27,55.37 L95.24,55.31 L95.22,55.25 L95.20,55.18 L95.19,55.12 L95.18,55.05 L95.17,54.99 L56.31,48.13 L56.28,48.19 L56.25,48.25 L56.22,48.31 L56.18,48.36 L56.14,48.42 L56.09,48.46 L56.04,48.50 L55.97,48.51 L55.91,48.48 L55.88,48.42 L55.85,48.36 L55.83,48.30 L55.81,48.24 L55.80,48.17 L55.79,48.11 L55.78,48.04 L36.00,44.55 L36.00,38.00 L34.00,38.00 L34.00,57.09 Z M61.39,60.97 L61.21,60.89 L61.07,60.76 L60.99,60.57 L60.99,60.38 L61.06,60.19 L61.19,60.05 L61.37,59.97 L61.57,59.96 L61.75,60.03 L61.89,60.17 L61.97,60.35 L61.97,60.55 L61.90,60.73 L61.77,60.88 L61.59,60.96 L61.39,60.97 Z M72.12,57.72 L71.83,57.60 L71.60,57.38 L71.48,57.09 L71.47,56.77 L71.59,56.48 L71.80,56.25 L72.09,56.12 L72.40,56.11 L72.70,56.22 L72.92,56.45 L73.04,56.74 L73.05,57.05 L72.94,57.35 L72.72,57.58 L72.43,57.71 L72.12,57.72 Z M67.08,57.48 L66.79,57.36 L66.57,57.14 L66.44,56.85 L66.44,56.54 L66.55,56.24 L66.77,56.01 L67.05,55.88 L67.37,55.87 L67.66,55.99 L67.89,56.21 L68.01,56.50 L68.01,56.81 L67.90,57.11 L67.69,57.34 L67.40,57.47 L67.08,57.48 Z M77.15,57.96 L76.86,57.84 L76.64,57.62 L76.51,57.33 L76.51,57.01 L76.62,56.72 L76.84,56.49 L77.12,56.36 L77.44,56.35 L77.73,56.46 L77.96,56.69 L78.08,56.98 L78.08,57.29 L77.97,57.59 L77.76,57.82 L77.47,57.95 L77.15,57.96 Z M82.17,58.32 L81.87,58.21 L81.65,57.99 L81.53,57.69 L81.52,57.38 L81.63,57.08 L81.85,56.85 L82.13,56.72 L82.45,56.71 L82.74,56.83 L82.97,57.05 L83.09,57.34 L83.10,57.66 L82.98,57.95 L82.77,58.18 L82.48,58.31 L82.17,58.32 Z M90.94,66.18 L90.75,66.10 L90.61,65.96 L90.54,65.78 L90.53,65.59 L90.60,65.40 L90.74,65.26 L90.92,65.17 L91.11,65.17 L91.30,65.24 L91.44,65.38 L91.51,65.56 L91.52,65.76 L91.45,65.94 L91.31,66.09 L91.13,66.17 L90.94,66.18 Z M87.18,58.69 L86.89,58.57 L86.66,58.35 L86.54,58.06 L86.53,57.74 L86.65,57.45 L86.86,57.22 L87.15,57.09 L87.46,57.08 L87.76,57.19 L87.98,57.41 L88.10,57.71 L88.11,58.02 L88.00,58.32 L87.78,58.55 L87.49,58.68 L87.18,58.69 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M95.70,55.08 L95.67,55.14 L95.64,55.20 L95.61,55.25 L95.57,55.31 L95.53,55.36 L95.48,55.41 L95.43,55.44 L95.36,55.45 L95.31,55.42 L95.27,55.37 L95.24,55.31 L95.22,55.25 L95.20,55.18 L95.19,55.12 L95.18,55.05 L95.17,54.99 L95.18,54.99 L95.18,54.99 L95.18,54.99 L95.18,54.99 L95.18,54.99 L95.18,54.99 L95.18,54.99 L95.18,54.99 L95.18,54.99 L95.18,54.99 L95.18,54.99 L95.18,54.99 L95.19,54.99 L95.19,54.99 L95.19,54.99 L95.19,54.99 L95.20,55.05 L95.21,55.11 L95.22,55.17 L95.23,55.23 L95.26,55.28 L95.28,55.33 L95.32,55.38 L95.37,55.41 L95.43,55.40 L95.48,55.37 L95.53,55.33 L95.57,55.28 L95.60,55.23 L95.63,55.18 L95.66,55.13 L95.69,55.08 L95.69,55.08 L95.69,55.08 L95.69,55.08 L95.69,55.08 L95.69,55.08 L95.70,55.08 L95.70,55.08 L95.70,55.08 L95.70,55.08 L95.70,55.08 L95.70,55.08 L95.70,55.08 L95.70,55.08 L95.70,55.08 L95.70,55.08 L95.70,55.08 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M56.31,48.13 L56.28,48.19 L56.25,48.25 L56.22,48.31 L56.18,48.36 L56.14,48.42 L56.09,48.46 L56.04,48.50 L55.97,48.51 L55.91,48.48 L55.88,48.42 L55.85,48.36 L55.83,48.30 L55.81,48.24 L55.80,48.17 L55.79,48.11 L55.78,48.04 L55.78,48.04 L55.78,48.04 L55.78,48.04 L55.79,48.04 L55.79,48.04 L55.79,48.04 L55.79,48.04 L55.79,48.04 L55.79,48.04 L55.79,48.04 L55.79,48.04 L55.79,48.04 L55.79,48.04 L55.79,48.04 L55.79,48.04 L55.80,48.04 L55.80,48.10 L55.81,48.16 L55.83,48.22 L55.84,48.28 L55.86,48.34 L55.89,48.39 L55.93,48.44 L55.98,48.46 L56.04,48.46 L56.09,48.42 L56.13,48.38 L56.17,48.34 L56.21,48.29 L56.24,48.24 L56.27,48.19 L56.30,48.13 L56.30,48.13 L56.30,48.13 L56.30,48.13 L56.30,48.13 L56.30,48.13 L56.30,48.13 L56.30,48.13 L56.30,48.13 L56.31,48.13 L56.31,48.13 L56.31,48.13 L56.31,48.13 L56.31,48.13 L56.31,48.13 L56.31,48.13 L56.31,48.13 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M55.57,48.00 L55.58,47.91 L55.58,47.81 L55.59,47.71 L55.59,47.62 L55.60,47.52 L55.61,47.43 L55.61,47.33 L55.62,47.23 L55.63,47.14 L55.64,47.04 L55.66,46.95 L55.67,46.85 L55.68,46.76 L55.69,46.66 L55.71,46.57 L55.72,46.47 L40.06,43.71 L39.80,45.22 L55.57,48.00 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M94.97,54.95 L94.97,54.85 L94.97,54.76 L94.98,54.66 L94.98,54.56 L94.99,54.47 L95.00,54.37 L95.01,54.28 L95.02,54.18 L95.03,54.08 L95.04,53.99 L95.05,53.89 L95.06,53.80 L95.07,53.70 L95.09,53.61 L95.10,53.51 L95.12,53.42 L56.90,46.68 L56.88,46.77 L56.87,46.87 L56.85,46.96 L56.83,47.06 L56.80,47.15 L56.78,47.24 L56.76,47.34 L56.74,47.43 L56.71,47.52 L56.69,47.62 L56.66,47.71 L56.64,47.80 L56.61,47.89 L56.58,47.99 L56.55,48.08 L56.52,48.17 L94.97,54.95 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M112.67,58.07 L112.94,56.56 L96.30,53.63 L96.28,53.72 L96.26,53.81 L96.24,53.91 L96.22,54.00 L96.20,54.10 L96.17,54.19 L96.15,54.28 L96.13,54.38 L96.10,54.47 L96.08,54.56 L96.05,54.66 L96.03,54.75 L96.00,54.84 L95.97,54.93 L95.94,55.02 L95.91,55.12 L112.67,58.07 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M38.80,95.00 L38.00,95.00 L38.00,77.00 L38.80,77.00 L38.80,95.00 Z' fill='#53675a' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M40.75,94.00 L38.80,94.00 L38.80,78.00 L40.75,78.00 L40.75,94.00 Z' fill='#53675a' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M38.00,92.00 L34.50,92.00 L34.50,80.00 L38.00,80.00 L38.00,92.00 Z' fill='#2e3a31' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M34.00,137.00 L33.50,137.00 L33.50,98.50 L34.00,98.50 L34.00,137.00 Z' fill='#cfcfcf' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M42.30,155.50 L38.00,155.50 L38.00,153.25 L39.00,153.25 L39.00,150.60 L41.30,150.60 L41.30,147.40 L39.00,147.40 L39.00,144.75 L38.00,144.75 L38.00,142.50 L42.30,142.50 L42.30,155.50 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M41.30,150.50 L39.55,150.50 L39.55,149.88 L38.80,149.88 L38.80,148.12 L39.55,148.12 L39.55,147.50 L41.30,147.50 L41.30,150.50 Z' fill='#444' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M38.75,153.00 L38.00,153.00 L38.00,151.88 L32.50,151.88 L32.50,146.12 L38.00,146.12 L38.00,145.00 L38.75,145.00 L38.75,153.00 Z' fill='#8a3b3b' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M109.68,75.05 L110.48,70.52 L36.10,57.40 L36.10,62.08 L109.68,75.05 Z' fill='none' stroke='#5b6b80' stroke-width='0.2' stroke-dasharray='0.8 0.5'/>
+<path d='M36.10,57.40 L110.48,70.52 L110.49,70.47 L36.10,57.35 L36.10,57.40 Z' fill='none' stroke='#5b6b80' stroke-width='0.2' stroke-dasharray='0.8 0.5'/>
+<line x1='112.36' y1='95.02' x2='118.36' y2='95.02' stroke='#888' stroke-width='0.12' stroke-dasharray='2 0.6 0.4 0.6'/>
+<line x1='115.36' y1='92.02' x2='115.36' y2='98.02' stroke='#888' stroke-width='0.12' stroke-dasharray='2 0.6 0.4 0.6'/>
+<line x1='142.50' y1='141.50' x2='148.50' y2='141.50' stroke='#888' stroke-width='0.12' stroke-dasharray='2 0.6 0.4 0.6'/>
+<line x1='145.50' y1='138.50' x2='145.50' y2='144.50' stroke='#888' stroke-width='0.12' stroke-dasharray='2 0.6 0.4 0.6'/>
+<polyline points='122.00,113.50 138.00,122.50' fill='none' stroke='#2f5d8a' stroke-width='0.3' stroke-dasharray='1.2 0.8' marker-end='url(#mb)'/>
+<polyline points='109.00,113.50 91.00,124.00 91.00,167.00' fill='none' stroke='#8b1e1e' stroke-width='0.3' stroke-dasharray='1.2 0.8' marker-end='url(#m)'/>
+<polyline points='152.50,160.00 168.00,169.00 168.00,187.00' fill='none' stroke='#2f5d8a' stroke-width='0.3' stroke-dasharray='1.2 0.8' marker-end='url(#mb)'/>
+<polyline points='138.00,162.00 89.00,191.00 60.00,202.00' fill='none' stroke='#8b1e1e' stroke-width='0.3' stroke-dasharray='1.2 0.8' marker-end='url(#m)'/>
+<circle cx='36.00' cy='61.00' r='0.6' fill='#8b1e1e'/>
+<line x1='36.00' y1='61.00' x2='29.00' y2='57.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<rect x='25.80' y='55.30' width='6.4' height='3.4' rx='0.6' fill='white' stroke='#8b1e1e' stroke-width='0.2'/>
+<text x='29.00' y='57.85' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='bold'>p1</text>
+<circle cx='109.86' cy='74.02' r='0.6' fill='#8b1e1e'/>
+<line x1='109.86' y1='74.02' x2='104.86' y2='70.02' stroke='#8b1e1e' stroke-width='0.12'/>
+<rect x='101.66' y='68.32' width='6.4' height='3.4' rx='0.6' fill='white' stroke='#8b1e1e' stroke-width='0.2'/>
+<text x='104.86' y='70.87' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='bold'>p2</text>
+<circle cx='115.36' cy='95.02' r='0.6' fill='#8b1e1e'/>
+<line x1='115.36' y1='95.02' x2='121.36' y2='92.02' stroke='#8b1e1e' stroke-width='0.12'/>
+<rect x='118.16' y='90.32' width='6.4' height='3.4' rx='0.6' fill='white' stroke='#8b1e1e' stroke-width='0.2'/>
+<text x='121.36' y='92.87' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='bold'>p3</text>
+<circle cx='115.36' cy='109.02' r='0.6' fill='#8b1e1e'/>
+<line x1='115.36' y1='109.02' x2='120.36' y2='110.52' stroke='#8b1e1e' stroke-width='0.12'/>
+<rect x='117.16' y='108.82' width='6.4' height='3.4' rx='0.6' fill='white' stroke='#8b1e1e' stroke-width='0.2'/>
+<text x='120.36' y='111.37' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='bold'>p4</text>
+<circle cx='98.00' cy='119.05' r='0.6' fill='#8b1e1e'/>
+<line x1='98.00' y1='119.05' x2='94.00' y2='116.05' stroke='#8b1e1e' stroke-width='0.12'/>
+<rect x='90.80' y='114.35' width='6.4' height='3.4' rx='0.6' fill='white' stroke='#8b1e1e' stroke-width='0.2'/>
+<text x='94.00' y='116.90' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='bold'>p5</text>
+<circle cx='134.00' cy='119.79' r='0.6' fill='#8b1e1e'/>
+<line x1='134.00' y1='119.79' x2='138.00' y2='115.79' stroke='#8b1e1e' stroke-width='0.12'/>
+<rect x='134.80' y='114.09' width='6.4' height='3.4' rx='0.6' fill='white' stroke='#8b1e1e' stroke-width='0.2'/>
+<text x='138.00' y='116.64' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='bold'>p6</text>
+<circle cx='145.50' cy='141.50' r='0.6' fill='#8b1e1e'/>
+<line x1='145.50' y1='141.50' x2='152.50' y2='139.50' stroke='#8b1e1e' stroke-width='0.12'/>
+<rect x='149.30' y='137.80' width='6.4' height='3.4' rx='0.6' fill='white' stroke='#8b1e1e' stroke-width='0.2'/>
+<text x='152.50' y='140.35' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='bold'>p7</text>
+<circle cx='145.50' cy='155.50' r='0.6' fill='#8b1e1e'/>
+<line x1='145.50' y1='155.50' x2='151.50' y2='158.50' stroke='#8b1e1e' stroke-width='0.12'/>
+<rect x='148.30' y='156.80' width='6.4' height='3.4' rx='0.6' fill='white' stroke='#8b1e1e' stroke-width='0.2'/>
+<text x='151.50' y='159.35' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='bold'>p8</text>
+<circle cx='69.00' cy='199.67' r='0.6' fill='#8b1e1e'/>
+<line x1='69.00' y1='199.67' x2='70.00' y2='192.67' stroke='#8b1e1e' stroke-width='0.12'/>
+<rect x='66.80' y='190.97' width='6.4' height='3.4' rx='0.6' fill='white' stroke='#8b1e1e' stroke-width='0.2'/>
+<text x='70.00' y='193.52' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='bold'>p9</text>
+<circle cx='174.00' cy='171.95' r='0.6' fill='#8b1e1e'/>
+<line x1='174.00' y1='171.95' x2='175.00' y2='164.95' stroke='#8b1e1e' stroke-width='0.12'/>
+<rect x='171.80' y='163.25' width='6.4' height='3.4' rx='0.6' fill='white' stroke='#8b1e1e' stroke-width='0.2'/>
+<text x='175.00' y='165.80' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='bold'>p10</text>
+<line x1='34.00' y1='237.00' x2='34.00' y2='245.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='199.00' y1='237.00' x2='199.00' y2='245.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='34.00' y1='244.00' x2='199.00' y2='244.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='116.50' y='243.00' font-size='2.3' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>330</text>
+<line x1='34.00' y1='240.00' x2='71.50' y2='240.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='52.75' y='239.00' font-size='2.3' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>75</text>
+<line x1='161.50' y1='240.00' x2='199.00' y2='240.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='180.25' y='239.00' font-size='2.3' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>75</text>
+<line x1='71.50' y1='233.00' x2='71.50' y2='241.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='161.50' y1='233.00' x2='161.50' y2='241.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='34.00' y1='237.00' x2='21.00' y2='237.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='34.00' y1='27.00' x2='21.00' y2='27.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='22.00' y1='237.00' x2='22.00' y2='27.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='21.00' y='132.00' font-size='2.3' text-anchor='middle' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 21.00 132.00)'>420</text>
+<line x1='34.00' y1='204.50' x2='28.00' y2='204.50' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='34.00' y1='203.50' x2='31.00' y2='203.50' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='29.00' y1='233.00' x2='29.00' y2='204.50' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='28.00' y='218.75' font-size='2.3' text-anchor='middle' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 28.00 218.75)'>57</text>
+<line x1='26.00' y1='237.00' x2='26.00' y2='233.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='25.00' y='235.00' font-size='2.3' text-anchor='middle' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 25.00 235.00)'>8</text>
+<line x1='33.50' y1='233.00' x2='25.00' y2='233.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='69.00' y1='199.67' x2='89.00' y2='199.67' stroke='#8b1e1e' stroke-width='0.12' stroke-dasharray='1 0.6'/>
+<path d='M83.00,199.67 A14,14 0 0 0 81.12,192.67' fill='none' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='86.00' y='196.67' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>30°</text>
+<line x1='134.00' y1='119.79' x2='122.00' y2='119.79' stroke='#8b1e1e' stroke-width='0.12' stroke-dasharray='1 0.6'/>
+<path d='M126.21,115.29 A9,9 0 0 0 125.00,119.79' fill='none' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='123.50' y='117.54' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>30°</text>
+<line x1='36.00' y1='61.00' x2='64.00' y2='61.00' stroke='#8b1e1e' stroke-width='0.12' stroke-dasharray='1 0.6'/>
+<path d='M75.39,67.95 A40,40 0 0 0 76.00,61.00' fill='none' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='78.00' y='64.50' font-size='2.2' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>10°</text>
+<line x1='82.50' y1='106.00' x2='82.50' y2='100.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='99.50' y1='119.05' x2='99.50' y2='100.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='82.50' y1='101.00' x2='99.50' y2='101.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='91.00' y='100.00' font-size='2.3' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>34</text>
+<line x1='84.00' y1='106.00' x2='84.00' y2='103.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='98.00' y1='119.05' x2='98.00' y2='103.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='84.00' y1='104.00' x2='98.00' y2='104.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='91.00' y='103.00' font-size='2.3' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>28 paso</text>
+<line x1='168.00' y1='145.50' x2='168.00' y2='125.50' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='167.00' y='135.50' font-size='2.3' text-anchor='middle' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 167.00 135.50)'>40</text>
+<line x1='165.00' y1='145.50' x2='169.00' y2='145.50' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='165.00' y1='125.50' x2='169.00' y2='125.50' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='113.36' y1='99.00' x2='113.36' y2='109.02' stroke='#8b1e1e' stroke-width='0.15' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='112.16' y='104.81' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>20</text>
+<line x1='143.50' y1='145.50' x2='143.50' y2='155.50' stroke='#8b1e1e' stroke-width='0.15' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='142.30' y='151.30' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>20</text>
+<line x1='69.00' y1='51.00' x2='59.00' y2='33.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='69.00' cy='51.00' r='0.45' fill='#222'/>
+<circle cx='59.00' cy='33.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='59.00' y='33.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>1</text>
+<line x1='84.00' y1='48.00' x2='89.00' y2='33.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='84.00' cy='48.00' r='0.45' fill='#222'/>
+<circle cx='89.00' cy='33.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='89.00' y='33.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>2</text>
+<line x1='104.00' y1='67.00' x2='114.00' y2='61.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='104.00' cy='67.00' r='0.45' fill='#222'/>
+<circle cx='114.00' cy='61.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='114.00' y='61.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>3</text>
+<line x1='105.00' y1='87.00' x2='95.00' y2='87.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='105.00' cy='87.00' r='0.45' fill='#222'/>
+<circle cx='95.00' cy='87.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='95.00' y='87.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>4</text>
+<line x1='123.00' y1='97.50' x2='132.00' y2='91.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='123.00' cy='97.50' r='0.45' fill='#222'/>
+<circle cx='132.00' cy='91.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='132.00' y='91.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>5</text>
+<line x1='156.00' y1='131.00' x2='176.50' y2='128.50' stroke='#222' stroke-width='0.15'/>
+<circle cx='156.00' cy='131.00' r='0.45' fill='#222'/>
+<circle cx='176.50' cy='128.50' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='176.50' y='129.40' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>6</text>
+<line x1='152.00' y1='143.00' x2='176.50' y2='146.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='152.00' cy='143.00' r='0.45' fill='#222'/>
+<circle cx='176.50' cy='146.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='176.50' y='146.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>7</text>
+<line x1='129.00' y1='117.75' x2='134.00' y2='106.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='129.00' cy='117.75' r='0.45' fill='#222'/>
+<circle cx='134.00' cy='106.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='134.00' y='106.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>8</text>
+<line x1='124.00' y1='169.50' x2='129.00' y2='178.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='124.00' cy='169.50' r='0.45' fill='#222'/>
+<circle cx='129.00' cy='178.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='129.00' y='178.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>9</text>
+<line x1='83.00' y1='137.00' x2='75.00' y2='132.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='83.00' cy='137.00' r='0.45' fill='#222'/>
+<circle cx='75.00' cy='132.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='75.00' y='132.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>10</text>
+<line x1='54.00' y1='217.00' x2='54.00' y2='192.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='54.00' cy='217.00' r='0.45' fill='#222'/>
+<circle cx='54.00' cy='192.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='54.00' y='192.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>11</text>
+<line x1='179.00' y1='217.00' x2='184.00' y2='192.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='179.00' cy='217.00' r='0.45' fill='#222'/>
+<circle cx='184.00' cy='192.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='184.00' y='192.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>12</text>
+<line x1='36.50' y1='86.00' x2='46.50' y2='86.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='36.50' cy='86.00' r='0.45' fill='#222'/>
+<circle cx='46.50' cy='86.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='46.50' y='86.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>13</text>
+<line x1='33.75' y1='117.00' x2='46.50' y2='114.50' stroke='#222' stroke-width='0.15'/>
+<circle cx='33.75' cy='117.00' r='0.45' fill='#222'/>
+<circle cx='46.50' cy='114.50' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='46.50' y='115.40' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>14</text>
+<line x1='33.25' y1='149.00' x2='48.00' y2='154.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='33.25' cy='149.00' r='0.45' fill='#222'/>
+<circle cx='48.00' cy='154.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='48.00' y='154.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>15</text>
+<line x1='36.00' y1='167.00' x2='46.50' y2='167.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='36.00' cy='167.00' r='0.45' fill='#222'/>
+<circle cx='46.50' cy='167.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='46.50' y='167.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>16</text>
+<line x1='197.00' y1='112.00' x2='186.50' y2='107.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='197.00' cy='112.00' r='0.45' fill='#222'/>
+<circle cx='186.50' cy='107.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='186.50' y='107.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>17</text>
+<line x1='114.00' y1='235.00' x2='114.00' y2='225.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='114.00' cy='235.00' r='0.45' fill='#222'/>
+<circle cx='114.00' cy='225.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='114.00' y='225.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>18</text>
+<line x1='72.75' y1='230.50' x2='81.50' y2='222.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='72.75' cy='230.50' r='0.45' fill='#222'/>
+<circle cx='81.50' cy='222.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='81.50' y='222.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>20</text>
+<line x1='134.00' y1='29.00' x2='149.00' y2='21.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='134.00' cy='29.00' r='0.45' fill='#222'/>
+<circle cx='149.00' cy='21.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='149.00' y='21.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>19</text>
+<text x='116.50' y='24.00' font-size='3.0' text-anchor='middle' fill='#222' font-weight='bold'>SECCIÓN 1-1 (quebrada)  ·  1:2</text>
+<text x='249.50' y='20.00' font-size='3.0' text-anchor='middle' fill='#222' font-weight='bold'>FRONTAL (16) · 1:2</text>
+<text x='249.50' y='23.50' font-size='2.0' text-anchor='middle' fill='#666' font-weight='normal'>zona de la columna, visto desde fuera</text>
+<path d='M222.00,233.00 L222.00,31.00 L281.00,31.00 L281.00,233.00 Z' fill='url(#hw)' stroke='#444' stroke-width='0.3'/>
+<path d='M280.00,84.00 L281.00,86.00 L279.00,88.00 L281.00,90.00' fill='none' stroke='#444' stroke-width='0.2'/>
+<path d='M280.00,174.00 L281.00,176.00 L279.00,178.00 L281.00,180.00' fill='none' stroke='#444' stroke-width='0.2'/>
+<rect x='223.00' y='203.50' width='53.00' height='29.50' fill='white' stroke='#222' stroke-width='0.25'/>
+<rect x='222.00' y='37.75' width='14.25' height='29.50' fill='white' stroke='#222' stroke-width='0.25'/>
+<rect x='231.75' y='80.00' width='35.50' height='12.00' fill='white' stroke='#222' stroke-width='0.25'/>
+<circle cx='230.75' cy='93.75' r='0.80' fill='white' stroke='#222' stroke-width='0.2'/>
+<circle cx='230.75' cy='78.25' r='0.80' fill='white' stroke='#222' stroke-width='0.2'/>
+<circle cx='268.25' cy='93.75' r='0.80' fill='white' stroke='#222' stroke-width='0.2'/>
+<circle cx='268.25' cy='78.25' r='0.80' fill='white' stroke='#222' stroke-width='0.2'/>
+<circle cx='249.50' cy='149.00' r='3.00' fill='white' stroke='#222' stroke-width='0.25'/>
+<rect x='232.00' y='98.50' width='35.00' height='38.50' fill='none' stroke='#777' stroke-width='0.2' stroke-dasharray='1.5 0.8'/>
+<text x='249.50' y='117.00' font-size='2.0' text-anchor='middle' fill='#666' font-weight='normal'>teclado 3×4</text>
+<text x='249.50' y='119.00' font-size='2.0' text-anchor='middle' fill='#666' font-weight='normal'>(adhesivo)</text>
+<line x1='249.50' y1='157.00' x2='249.50' y2='72.00' stroke='#888' stroke-width='0.12' stroke-dasharray='3 0.8 0.5 0.8'/>
+<line x1='222.00' y1='237.00' x2='222.00' y2='27.00' stroke='#888' stroke-width='0.15'/>
+<line x1='277.00' y1='202.00' x2='277.00' y2='37.00' stroke='#999' stroke-width='0.12' stroke-dasharray='1.5 0.8'/>
+<text x='277.80' y='72.00' font-size='1.9' text-anchor='start' fill='#666' font-weight='normal' transform='rotate(-90 277.80 72.00)'>divisor (110-118) detrás</text>
+<line x1='249.50' y1='30.50' x2='249.50' y2='28.00' stroke='#8b1e1e' stroke-width='0.45'/>
+<line x1='249.50' y1='233.50' x2='249.50' y2='236.00' stroke='#8b1e1e' stroke-width='0.45'/>
+<text x='250.70' y='30.00' font-size='2.4' text-anchor='start' fill='#8b1e1e' font-weight='bold'>1</text>
+<line x1='213.50' y1='237.00' x2='213.50' y2='31.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='213.50' y1='31.00' x2='221.50' y2='31.00' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='31.00' x2='214.30' y2='31.00' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='31.00' x2='211.30' y2='31.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='31.80' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>412</text>
+<line x1='213.50' y1='37.75' x2='221.50' y2='37.75' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='37.75' x2='214.30' y2='37.75' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='37.75' x2='211.30' y2='37.75' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='38.55' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>398,5</text>
+<line x1='213.50' y1='67.25' x2='221.50' y2='67.25' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='67.25' x2='214.30' y2='67.25' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='67.25' x2='211.30' y2='67.25' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='68.05' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>339,5</text>
+<line x1='213.50' y1='78.25' x2='221.50' y2='78.25' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='78.25' x2='214.30' y2='78.25' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='78.25' x2='211.30' y2='77.88' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='78.67' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>317,5</text>
+<line x1='213.50' y1='80.00' x2='221.50' y2='80.00' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='80.00' x2='214.30' y2='80.00' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='80.00' x2='211.30' y2='80.38' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='81.17' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>314</text>
+<line x1='213.50' y1='92.00' x2='221.50' y2='92.00' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='92.00' x2='214.30' y2='92.00' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='92.00' x2='211.30' y2='91.62' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='92.42' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>290</text>
+<line x1='213.50' y1='93.75' x2='221.50' y2='93.75' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='93.75' x2='214.30' y2='93.75' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='93.75' x2='211.30' y2='94.12' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='94.92' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>286,5</text>
+<line x1='213.50' y1='98.50' x2='221.50' y2='98.50' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='98.50' x2='214.30' y2='98.50' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='98.50' x2='211.30' y2='98.50' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='99.30' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>277</text>
+<line x1='213.50' y1='137.00' x2='221.50' y2='137.00' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='137.00' x2='214.30' y2='137.00' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='137.00' x2='211.30' y2='137.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='137.80' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>200</text>
+<line x1='213.50' y1='146.00' x2='221.50' y2='146.00' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='146.00' x2='214.30' y2='146.00' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='146.00' x2='211.30' y2='146.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='146.80' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>182</text>
+<line x1='213.50' y1='149.00' x2='221.50' y2='149.00' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='149.00' x2='214.30' y2='149.00' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='149.00' x2='211.30' y2='149.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='149.80' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>176</text>
+<line x1='213.50' y1='152.00' x2='221.50' y2='152.00' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='152.00' x2='214.30' y2='152.00' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='152.00' x2='211.30' y2='152.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='152.80' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>170</text>
+<line x1='213.50' y1='203.50' x2='221.50' y2='203.50' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='203.50' x2='214.30' y2='203.50' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='203.50' x2='211.30' y2='203.50' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='204.30' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>67</text>
+<line x1='213.50' y1='233.00' x2='221.50' y2='233.00' stroke='#8b1e1e' stroke-width='0.1' stroke-dasharray='0.6 0.5'/>
+<line x1='212.70' y1='233.00' x2='214.30' y2='233.00' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='212.50' y1='233.00' x2='211.30' y2='233.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='211.00' y='233.80' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal'>8</text>
+<text x='213.50' y='237.80' font-size='2.1' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>0</text>
+<line x1='222.00' y1='240.00' x2='281.00' y2='240.00' stroke='#8b1e1e' stroke-width='0.12'/>
+<line x1='222.00' y1='233.00' x2='222.00' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='222.00' y1='239.20' x2='222.00' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='222.00' y1='241.00' x2='221.20' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='222.00' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 222.00 243.50)'>0</text>
+<line x1='223.00' y1='233.00' x2='223.00' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='223.00' y1='239.20' x2='223.00' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='223.00' y1='241.00' x2='223.80' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='224.60' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 224.60 243.50)'>2</text>
+<line x1='230.75' y1='233.00' x2='230.75' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='230.75' y1='239.20' x2='230.75' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='230.75' y1='241.00' x2='228.79' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='229.59' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 229.59 243.50)'>17,5</text>
+<line x1='231.75' y1='233.00' x2='231.75' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='231.75' y1='239.20' x2='231.75' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='231.75' y1='241.00' x2='231.39' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='232.19' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 232.19 243.50)'>19,5</text>
+<line x1='232.00' y1='233.00' x2='232.00' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='232.00' y1='239.20' x2='232.00' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='232.00' y1='241.00' x2='233.99' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='234.79' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 234.79 243.50)'>20</text>
+<line x1='236.25' y1='233.00' x2='236.25' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='236.25' y1='239.20' x2='236.25' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='236.25' y1='241.00' x2='236.59' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='237.39' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 237.39 243.50)'>28,5</text>
+<line x1='249.50' y1='233.00' x2='249.50' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='249.50' y1='239.20' x2='249.50' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='249.50' y1='241.00' x2='249.50' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='250.30' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 250.30 243.50)'>55</text>
+<line x1='267.00' y1='233.00' x2='267.00' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='267.00' y1='239.20' x2='267.00' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='267.00' y1='241.00' x2='264.90' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='265.70' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 265.70 243.50)'>90</text>
+<line x1='267.25' y1='233.00' x2='267.25' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='267.25' y1='239.20' x2='267.25' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='267.25' y1='241.00' x2='267.50' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='268.30' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 268.30 243.50)'>90,5</text>
+<line x1='268.25' y1='233.00' x2='268.25' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='268.25' y1='239.20' x2='268.25' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='268.25' y1='241.00' x2='270.10' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='270.90' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 270.90 243.50)'>92,5</text>
+<line x1='276.00' y1='233.00' x2='276.00' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='276.00' y1='239.20' x2='276.00' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='276.00' y1='241.00' x2='276.00' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='276.80' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 276.80 243.50)'>108</text>
+<line x1='281.00' y1='233.00' x2='281.00' y2='240.00' stroke='#8b1e1e' stroke-width='0.08' stroke-dasharray='0.6 0.5'/>
+<line x1='281.00' y1='239.20' x2='281.00' y2='240.80' stroke='#8b1e1e' stroke-width='0.2'/>
+<line x1='281.00' y1='241.00' x2='281.00' y2='243.00' stroke='#8b1e1e' stroke-width='0.1'/>
+<text x='281.80' y='243.50' font-size='2.1' text-anchor='end' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 281.80 243.50)'>118</text>
+<text x='220.50' y='240.80' font-size='2.0' text-anchor='end' fill='#666' font-weight='normal'>lat</text>
+<text x='271.25' y='76.50' font-size='1.9' text-anchor='start' fill='#8b1e1e' font-weight='normal'>4× Ø3,2</text>
+<text x='253.50' y='151.50' font-size='1.9' text-anchor='start' fill='#8b1e1e' font-weight='normal'>Ø12</text>
+<circle cx='244.00' cy='149.00' r='2.00' fill='none' stroke='#777' stroke-width='0.15' stroke-dasharray='0.8 0.5'/>
+<circle cx='255.00' cy='149.00' r='2.00' fill='none' stroke='#777' stroke-width='0.15' stroke-dasharray='0.8 0.5'/>
+<text x='12.00' y='252.80' font-size='2.8' text-anchor='start' fill='#222' font-weight='bold'>T1 · Piezas y posición</text>
+<text x='12.00' y='257.00' font-size='2.15' text-anchor='start' fill='#666' font-weight='bold'>n.º</text>
+<text x='20.00' y='257.00' font-size='2.15' text-anchor='start' fill='#666' font-weight='bold'>pieza</text>
+<text x='64.00' y='257.00' font-size='2.15' text-anchor='start' fill='#666' font-weight='bold'>origen</text>
+<text x='84.00' y='257.00' font-size='2.15' text-anchor='start' fill='#666' font-weight='bold'>posición</text>
+<text x='148.00' y='257.00' font-size='2.15' text-anchor='start' fill='#666' font-weight='bold'>fijación / nota</text>
+<line x1='12.00' y1='258.00' x2='180.00' y2='258.00' stroke='#222' stroke-width='0.2'/>
+<text x='12.00' y='261.20' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>1</text>
+<text x='20.00' y='261.20' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>A carril de medida</text>
+<text x='64.00' y='261.20' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>modelo</text>
+<text x='84.00' y='261.20' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>placa x 0–4 · z 340–398 · lat 0–28</text>
+<text x='148.00' y='261.20' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>6 × M3 en la pared (T3)</text>
+<text x='12.00' y='264.25' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>2</text>
+<text x='20.00' y='264.25' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>A-T tapa del canal</text>
+<text x='64.00' y='264.25' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>modelo</text>
+<text x='84.00' y='264.25' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>sobre A</text>
+<text x='148.00' y='264.25' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>2 × M2×6</text>
+<text x='12.00' y='267.30' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>3</text>
+<text x='20.00' y='267.30' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>A-F pared de fototransistores</text>
+<text x='64.00' y='267.30' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>modelo</text>
+<text x='84.00' y='267.30' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>detrás de A (lat 11–25)</text>
+<text x='148.00' y='267.30' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>3 × M2×6</text>
+<text x='12.00' y='270.35' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>4</text>
+<text x='20.00' y='270.35' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>B cubilete de espera</text>
+<text x='64.00' y='270.35' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>modelo</text>
+<text x='84.00' y='270.35' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>x 139,7–185,7 · z 276–316 · lat 0–46</text>
+<text x='148.00' y='270.35' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>4 × M3 en la pared (T3)</text>
+<text x='12.00' y='273.40' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>5</text>
+<text x='20.00' y='273.40' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Trampilla B (TP+TS+AC+2 PZ)</text>
+<text x='64.00' y='273.40' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>modelo</text>
+<text x='84.00' y='273.40' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>eje p3</text>
+<text x='148.00' y='273.40' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>SG90 a 16 mm</text>
+<text x='12.00' y='276.45' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>6</text>
+<text x='20.00' y='276.45' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>C escrow (máx. 10 monedas)</text>
+<text x='64.00' y='276.45' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>modelo</text>
+<text x='84.00' y='276.45' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>x 200–246 · z 183–223 · lat 0–46</text>
+<text x='148.00' y='276.45' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>= B, misma pieza; 4 × M3 (T3)</text>
+<text x='12.00' y='279.50' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>7</text>
+<text x='20.00' y='279.50' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Trampilla C</text>
+<text x='64.00' y='279.50' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>modelo</text>
+<text x='84.00' y='279.50' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>eje p7 (8 sobre el fondo de C)</text>
+<text x='148.00' y='279.50' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>mismas piezas que B</text>
+<text x='12.00' y='282.55' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>8</text>
+<text x='20.00' y='282.55' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Λ-B cresta</text>
+<text x='64.00' y='282.55' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>por diseñar</text>
+<text x='84.00' y='282.55' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>p5–p4–p6 · e 3 · lat 1–109</text>
+<text x='148.00' y='282.55' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>alas 40,1 / 43,0</text>
+<text x='12.00' y='285.60' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>9</text>
+<text x='20.00' y='285.60' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Λ-C cresta-rampa</text>
+<text x='64.00' y='285.60' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>por diseñar</text>
+<text x='84.00' y='285.60' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>p9–p8–p10 · e 3 · lat 1–109</text>
+<text x='148.00' y='285.60' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>alas 176,7 / 65,8</text>
+<text x='12.00' y='288.65' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>10</text>
+<text x='20.00' y='288.65' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Canal no válidas (2 chapas)</text>
+<text x='64.00' y='288.65' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>por diseñar</text>
+<text x='84.00' y='288.65' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>x 97–100 z 118–262 · x 128–131 z 137–235,9</text>
+<text x='148.00' y='288.65' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>e 3 · lat 1–109</text>
+<text x='12.00' y='291.70' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>11</text>
+<text x='20.00' y='291.70' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Cajón devolución</text>
+<text x='64.00' y='291.70' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>PLA</text>
+<text x='84.00' y='291.70' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>x 0–75 · z 8–65 · lat 3–107</text>
+<text x='148.00' y='291.70' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>detalle D</text>
+<text x='12.00' y='294.75' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>12</text>
+<text x='20.00' y='294.75' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Hucha (cajón igual)</text>
+<text x='64.00' y='294.75' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>PLA</text>
+<text x='84.00' y='294.75' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>x 255–330 · z 8–65 · lat 3–107</text>
+<text x='148.00' y='294.75' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>detalle D, girado</text>
+<text x='12.00' y='297.80' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>13</text>
+<text x='20.00' y='297.80' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>LCD 16×2 (80×36)</text>
+<text x='64.00' y='297.80' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>comprar</text>
+<text x='84.00' y='297.80' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>z 284–320 · lat 15–95, por dentro</text>
+<text x='148.00' y='297.80' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>4 × M3×12 + separador</text>
+<text x='12.00' y='300.85' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>14</text>
+<text x='20.00' y='300.85' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Teclado 3×4 (70×77×1)</text>
+<text x='64.00' y='300.85' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>comprar</text>
+<text x='84.00' y='300.85' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>z 200–277 · lat 20–90, por fuera</text>
+<text x='148.00' y='300.85' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>adhesivo</text>
+<text x='12.00' y='303.90' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>15</text>
+<text x='20.00' y='303.90' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Pulsador 6×6 + PC-E + PC-S</text>
+<text x='64.00' y='303.90' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>inventario · PLA</text>
+<text x='84.00' y='303.90' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>z 176 · lat 55 · soporte x 8–16,6</text>
+<text x='148.00' y='303.90' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>pegado; detalle E</text>
+<text x='12.00' y='306.95' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>16</text>
+<text x='20.00' y='306.95' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Frontal</text>
+<text x='64.00' y='306.95' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>DM 8</text>
+<text x='84.00' y='306.95' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>314 × 404, entre laterales</text>
+<text x='148.00' y='306.95' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>tabla T4</text>
+<text x='12.00' y='310.00' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>17</text>
+<text x='20.00' y='310.00' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Trasera</text>
+<text x='64.00' y='310.00' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>DM 8</text>
+<text x='84.00' y='310.00' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>314 × 404, entre laterales</text>
+<text x='148.00' y='310.00' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>tabla T4</text>
+<text x='12.00' y='313.05' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>18-19</text>
+<text x='20.00' y='313.05' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Suelo / techo</text>
+<text x='64.00' y='313.05' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>DM 8</text>
+<text x='84.00' y='313.05' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>314 × 330</text>
+<text x='148.00' y='313.05' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'></text>
+<text x='12.00' y='316.10' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>20</text>
+<text x='20.00' y='316.10' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Topes de los cajones (×2)</text>
+<text x='64.00' y='316.10' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>PLA o DM</text>
+<text x='84.00' y='316.10' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>x 75–80 y 250–255 · z 8–18 · lat 3–107</text>
+<text x='148.00' y='316.10' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>pegados al suelo</text>
+<text x='185.00' y='252.80' font-size='2.8' text-anchor='start' fill='#222' font-weight='bold'>T2 · Puntos (sección)</text>
+<text x='185.00' y='257.00' font-size='1.95' text-anchor='start' fill='#666' font-weight='bold'></text>
+<text x='192.00' y='257.00' font-size='1.95' text-anchor='start' fill='#666' font-weight='bold'></text>
+<text x='269.00' y='257.00' font-size='1.95' text-anchor='start' fill='#666' font-weight='bold'>x</text>
+<text x='279.00' y='257.00' font-size='1.95' text-anchor='start' fill='#666' font-weight='bold'>z</text>
+<line x1='185.00' y1='258.00' x2='285.00' y2='258.00' stroke='#222' stroke-width='0.2'/>
+<text x='185.00' y='261.20' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>p1</text>
+<text x='192.00' y='261.20' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>suelo del carril A, entrada</text>
+<text x='269.00' y='261.20' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>4</text>
+<text x='279.00' y='261.20' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>352</text>
+<text x='185.00' y='264.30' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>p2</text>
+<text x='192.00' y='264.30' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>suelo del carril A al final</text>
+<text x='269.00' y='264.30' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>151,7</text>
+<text x='279.00' y='264.30' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>326</text>
+<text x='185.00' y='267.40' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>p3</text>
+<text x='192.00' y='267.40' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>eje de la trampilla de B</text>
+<text x='269.00' y='267.40' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>162,7</text>
+<text x='279.00' y='267.40' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>284</text>
+<text x='185.00' y='270.50' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>p4</text>
+<text x='192.00' y='270.50' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>vértice de Λ-B (cara de arriba)</text>
+<text x='269.00' y='270.50' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>162,7</text>
+<text x='279.00' y='270.50' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>256</text>
+<text x='185.00' y='273.60' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>p5</text>
+<text x='192.00' y='273.60' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>extremo delantero de Λ-B</text>
+<text x='269.00' y='273.60' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>128</text>
+<text x='279.00' y='273.60' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>235,9</text>
+<text x='185.00' y='276.70' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>p6</text>
+<text x='192.00' y='276.70' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>extremo trasero de Λ-B</text>
+<text x='269.00' y='276.70' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>200</text>
+<text x='279.00' y='276.70' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>234,4</text>
+<text x='185.00' y='279.80' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>p7</text>
+<text x='192.00' y='279.80' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>eje de la trampilla de C</text>
+<text x='269.00' y='279.80' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>223</text>
+<text x='279.00' y='279.80' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>191</text>
+<text x='185.00' y='282.90' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>p8</text>
+<text x='192.00' y='282.90' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>vértice de Λ-C (cara de arriba)</text>
+<text x='269.00' y='282.90' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>223</text>
+<text x='279.00' y='282.90' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>163</text>
+<text x='185.00' y='286.00' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>p9</text>
+<text x='192.00' y='286.00' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>extremo delantero de Λ-C</text>
+<text x='269.00' y='286.00' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>70</text>
+<text x='279.00' y='286.00' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>74,7</text>
+<text x='185.00' y='289.10' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>p10</text>
+<text x='192.00' y='289.10' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>extremo trasero de Λ-C</text>
+<text x='269.00' y='289.10' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>280</text>
+<text x='279.00' y='289.10' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>130,1</text>
+<text x='185.00' y='296.00' font-size='2.8' text-anchor='start' fill='#222' font-weight='bold'>T3 · Taladros Ø3,4 en la pared lateral (x, z)</text>
+<text x='185.00' y='300.20' font-size='1.95' text-anchor='start' fill='#666' font-weight='bold'></text>
+<text x='192.00' y='300.20' font-size='1.95' text-anchor='start' fill='#666' font-weight='bold'>centros (x, z)</text>
+<line x1='185.00' y1='301.20' x2='285.00' y2='301.20' stroke='#222' stroke-width='0.2'/>
+<text x='185.00' y='304.40' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>A</text>
+<text x='192.00' y='304.40' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>(22,3, 340,8) · (30,8, 388,8) · (81,4, 330,4)</text>
+<text x='185.00' y='307.50' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'></text>
+<text x='192.00' y='307.50' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>(89,9, 378,4) · (140,5, 319,9) · (149, 368)</text>
+<text x='185.00' y='310.60' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>B</text>
+<text x='192.00' y='310.60' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>(133,2, 282,5) · (133,2, 309,5)</text>
+<text x='185.00' y='313.70' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'></text>
+<text x='192.00' y='313.70' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>(192,2, 282,5) · (192,2, 309,5)</text>
+<text x='185.00' y='316.80' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>C</text>
+<text x='192.00' y='316.80' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>(193,5, 189,5) · (193,5, 216,5)</text>
+<text x='185.00' y='319.90' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'></text>
+<text x='192.00' y='319.90' font-size='1.95' text-anchor='start' fill='#222' font-weight='normal'>(252,5, 189,5) · (252,5, 216,5)</text>
+<text x='185.00' y='323.50' font-size='1.85' text-anchor='start' fill='#666' font-weight='normal'>C es la misma pieza que B: mismas orejetas, desplazadas 60,3 en x y −93 en z.</text>
+<text x='185.00' y='326.50' font-size='1.85' text-anchor='start' fill='#666' font-weight='normal'>Tornillo M3 + tuerca por fuera. Crestas y canal: pegados a pared y divisor.</text>
+<text x='12.00' y='322.95' font-size='2.8' text-anchor='start' fill='#222' font-weight='bold'>T4 · Aberturas en los paneles (u = lat, v = z − 8)</text>
+<text x='12.00' y='327.15' font-size='2.15' text-anchor='start' fill='#666' font-weight='bold'>panel</text>
+<text x='28.00' y='327.15' font-size='2.15' text-anchor='start' fill='#666' font-weight='bold'>abertura</text>
+<text x='62.00' y='327.15' font-size='2.15' text-anchor='start' fill='#666' font-weight='bold'>tamaño</text>
+<text x='82.00' y='327.15' font-size='2.15' text-anchor='start' fill='#666' font-weight='bold'>posición</text>
+<line x1='12.00' y1='328.15' x2='180.00' y2='328.15' stroke='#222' stroke-width='0.2'/>
+<text x='12.00' y='331.35' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Frontal</text>
+<text x='28.00' y='331.35' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>cajón devolución</text>
+<text x='62.00' y='331.35' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>106 × 59</text>
+<text x='82.00' y='331.35' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>u 2–108 · v 0–59 (desde el canto inferior)</text>
+<text x='12.00' y='334.40' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'></text>
+<text x='28.00' y='334.40' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>placa del carril A</text>
+<text x='62.00' y='334.40' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>28,5 × 59</text>
+<text x='82.00' y='334.40' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>u 0–28,5 · v 331,5–390,5 (desde el canto lateral)</text>
+<text x='12.00' y='337.45' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'></text>
+<text x='28.00' y='337.45' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>ventana LCD</text>
+<text x='62.00' y='337.45' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>71 × 24</text>
+<text x='82.00' y='337.45' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>u 19,5–90,5 · v 282–306</text>
+<text x='12.00' y='340.50' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'></text>
+<text x='28.00' y='340.50' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>4 taladros LCD Ø3,2</text>
+<text x='62.00' y='340.50' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>75 × 31</text>
+<text x='82.00' y='340.50' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>u 17,5 / 92,5 · v 278,5 / 309,5</text>
+<text x='12.00' y='343.55' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'></text>
+<text x='28.00' y='343.55' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>pulsador Ø12</text>
+<text x='62.00' y='343.55' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'></text>
+<text x='82.00' y='343.55' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>u 55 · v 168</text>
+<text x='12.00' y='346.60' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>Trasera</text>
+<text x='28.00' y='346.60' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>hucha</text>
+<text x='62.00' y='346.60' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>106 × 59</text>
+<text x='82.00' y='346.60' font-size='2.15' text-anchor='start' fill='#222' font-weight='normal'>u 2–108 · v 0–59, u desde la pared lateral (visto desde dentro)</text>
+<text x='183.00' y='333.00' font-size='2.6' text-anchor='start' fill='#222' font-weight='bold'>Detalle D · cajón, 2 iguales (devolución y hucha) · 1:2</text>
+<path d='M188.00,368.50 h37.5 v-28.5 h-1.25 v27.25 h-32.25 v-27.25 h-4.0 z' fill='url(#hp)' stroke='#222' stroke-width='0.25'/>
+<rect x='187.99' y='340.00' width='4.02' height='4.00' fill='white' stroke='#222' stroke-width='0.2'/>
+<line x1='188.00' y1='371.00' x2='225.50' y2='371.00' stroke='#8b1e1e' stroke-width='0.15' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='206.75' y='370.50' font-size='2.0' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>75</text>
+<line x1='185.50' y1='368.50' x2='185.50' y2='340.00' stroke='#8b1e1e' stroke-width='0.15' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='184.70' y='354.25' font-size='2.0' text-anchor='middle' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 184.70 354.25)'>57</text>
+<text x='190.00' y='339.00' font-size='1.9' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>8</text>
+<text x='226.50' y='342.00' font-size='1.9' text-anchor='start' fill='#8b1e1e' font-weight='normal'>2,5</text>
+<text x='193.50' y='343.50' font-size='1.8' text-anchor='start' fill='#666' font-weight='normal'>muesca 20 × 8</text>
+<text x='206.75' y='374.50' font-size='1.8' text-anchor='middle' fill='#666' font-weight='normal'>sección (frente a la izq.)</text>
+<rect x='234.50' y='339.00' width='52.00' height='37.50' fill='url(#hp)' stroke='#222' stroke-width='0.25'/>
+<rect x='235.75' y='340.25' width='49.50' height='32.25' fill='white' stroke='#222' stroke-width='0.2'/>
+<rect x='255.50' y='372.50' width='10.00' height='4.00' fill='white' stroke='#222' stroke-width='0.2'/>
+<line x1='234.50' y1='379.00' x2='286.50' y2='379.00' stroke='#8b1e1e' stroke-width='0.15' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='260.50' y='378.50' font-size='2.0' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>104</text>
+<text x='266.50' y='382.50' font-size='1.8' text-anchor='start' fill='#8b1e1e' font-weight='normal'>20</text>
+<text x='260.50' y='337.80' font-size='1.8' text-anchor='middle' fill='#666' font-weight='normal'>planta (frente abajo)</text>
+<text x='183.00' y='386.00' font-size='1.75' text-anchor='start' fill='#666' font-weight='normal'>Paredes y fondo 2,5 · frente 8 a ras del panel · holgura 1 por lado en la abertura 106 × 59</text>
+<rect x='12' y='353.84999999999997' width='6' height='3.4' fill='url(#hm)' stroke='#222' stroke-width='0.2'/>
+<text x='19.50' y='356.65' font-size='2.1' text-anchor='start' fill='#222' font-weight='normal'>diseñada (modelo Fusion)</text>
+<rect x='54' y='353.84999999999997' width='6' height='3.4' fill='url(#hp)' stroke='#222' stroke-width='0.2' stroke-dasharray='1.2 0.6'/>
+<text x='61.50' y='356.65' font-size='2.1' text-anchor='start' fill='#222' font-weight='normal'>prevista, por diseñar</text>
+<rect x='96' y='353.84999999999997' width='6' height='3.4' fill='url(#hw)' stroke='#222' stroke-width='0.2'/>
+<text x='103.50' y='356.65' font-size='2.1' text-anchor='start' fill='#222' font-weight='normal'>carcasa DM 8</text>
+<rect x='138' y='353.84999999999997' width='6' height='3.4' fill='#53675a' stroke='#222' stroke-width='0.2'/>
+<text x='145.50' y='356.65' font-size='2.1' text-anchor='start' fill='#222' font-weight='normal'>comprada</text>
+<text x='12.00' y='362.65' font-size='1.95' text-anchor='start' fill='#666' font-weight='normal'>Origen: x desde la cara exterior del frontal, z desde la cara inferior del suelo, lat desde la cara interior de la pared lateral de la columna.</text>
+<text x='12.00' y='365.65' font-size='1.95' text-anchor='start' fill='#666' font-weight='normal'>Corte quebrado: A por 9,5 mm de la pared lateral (A-F a 13, en discontinua), B y C por 12, el resto por el centro de la columna (55).</text>
+<text x='12.00' y='368.65' font-size='1.95' text-anchor='start' fill='#666' font-weight='normal'>Crestas y rampas a 30°; 20 de paso entre el fondo de cada cubilete y el vértice de su cresta. Paso libre ≥ 27 sobre las rampas (moneda de 2 € = Ø25,75).</text>
+<text x='12.00' y='371.65' font-size='1.95' text-anchor='start' fill='#666' font-weight='normal'>Cotas en mm. Tolerancia general ±0,5 en DM, ±0,2 en impresas. Servos SG90 al otro lado (fuera del plano).</text>
+<text x='12.00' y='378.15' font-size='2.6' text-anchor='start' fill='#222' font-weight='bold'>Detalle E · pulsador cancelar · 1:1</text>
+<text x='12.00' y='382.15' font-size='1.85' text-anchor='start' fill='#666' font-weight='normal'>táctil 6×6 de 5 de alto (inventario)</text>
+<text x='12.00' y='385.15' font-size='1.85' text-anchor='start' fill='#666' font-weight='normal'>embellecedor PLA Ø11,5 × 11 + collarín Ø16 × 1,5</text>
+<text x='12.00' y='388.15' font-size='1.85' text-anchor='start' fill='#666' font-weight='normal'>soporte PC-S 26 × 26 × 8,6 pegado al frontal;</text>
+<text x='12.00' y='391.15' font-size='1.85' text-anchor='start' fill='#666' font-weight='normal'>el táctil va pegado dentro del soporte</text>
+<text x='12.00' y='394.15' font-size='1.85' text-anchor='start' fill='#666' font-weight='normal'>ver cad/maquina/pulsador/esquema_pulsador</text>
+<path d='M78.0,376.15 H86.0 V384.15 H78.0 Z M78.0,396.15 H86.0 V404.15 H78.0 Z' fill='url(#hw)' stroke='#444' stroke-width='0.25'/>
+<path d='M75.0,384.4 H86.0 V382.15 H87.5 V398.15 H86.0 V395.9 H75.0 Z' fill='#8a3b3b' stroke='#222' stroke-width='0.2'/>
+<rect x='87.60' y='388.40' width='1.50' height='3.50' fill='#444' stroke='#222' stroke-width='0.15'/>
+<rect x='89.10' y='387.15' width='3.50' height='6.00' fill='#444' stroke='#222' stroke-width='0.15'/>
+<path d='M86.0,377.15 H94.6 V403.15 H86.0 V398.65 H88.0 V393.34999999999997 H92.6 V386.95 H88.0 V381.65 H86.0 Z' fill='url(#hm)' stroke='#222' stroke-width='0.2'/>
+<line x1='75.00' y1='379.65' x2='78.00' y2='379.65' stroke='#8b1e1e' stroke-width='0.12' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='76.50' y='378.85' font-size='1.8' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>3</text>
+<line x1='75.00' y1='384.40' x2='75.00' y2='378.65' stroke='#8b1e1e' stroke-width='0.1'/>
+<line x1='75.00' y1='395.90' x2='75.00' y2='407.15' stroke='#8b1e1e' stroke-width='0.1'/>
+<line x1='86.00' y1='404.15' x2='86.00' y2='407.15' stroke='#8b1e1e' stroke-width='0.1'/>
+<line x1='75.00' y1='406.15' x2='86.00' y2='406.15' stroke='#8b1e1e' stroke-width='0.12' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='80.50' y='408.55' font-size='1.8' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>11</text>
+<line x1='94.60' y1='403.15' x2='94.60' y2='407.15' stroke='#8b1e1e' stroke-width='0.1'/>
+<line x1='86.00' y1='406.15' x2='94.60' y2='406.15' stroke='#8b1e1e' stroke-width='0.12' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='90.30' y='408.55' font-size='1.8' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>8,6</text>
+<line x1='73.00' y1='395.90' x2='73.00' y2='384.40' stroke='#8b1e1e' stroke-width='0.12' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='72.20' y='390.15' font-size='1.8' text-anchor='middle' fill='#8b1e1e' font-weight='normal' transform='rotate(-90 72.20 390.15)'>Ø11,5</text>
+<line x1='97.50' y1='403.15' x2='97.50' y2='377.15' stroke='#8b1e1e' stroke-width='0.12' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='98.80' y='390.15' font-size='1.8' text-anchor='middle' fill='#8b1e1e' font-weight='normal' transform='rotate(90 98.80 390.15)'>26</text>
+<line x1='94.60' y1='403.15' x2='98.00' y2='403.15' stroke='#8b1e1e' stroke-width='0.08'/>
+<line x1='94.60' y1='377.15' x2='98.00' y2='377.15' stroke='#8b1e1e' stroke-width='0.08'/>
+<text x='82.00' y='375.35' font-size='1.8' text-anchor='middle' fill='#666' font-weight='normal'>frontal</text>
+<rect x='169.0' y='390.0' width='120' height='22' fill='none' stroke='#222' stroke-width='0.4'/>
+<line x1='169.00' y1='398.00' x2='289.00' y2='398.00' stroke='#222' stroke-width='0.25'/>
+<line x1='169.00' y1='405.00' x2='289.00' y2='405.00' stroke='#222' stroke-width='0.25'/>
+<line x1='239.00' y1='398.00' x2='239.00' y2='412.00' stroke='#222' stroke-width='0.25'/>
+<text x='172.00' y='395.50' font-size='3.2' text-anchor='start' fill='#222' font-weight='bold'>Máquina expendedora SED · Corte 1: columna de monedas</text>
+<text x='172.00' y='402.50' font-size='2.5' text-anchor='start' fill='#222' font-weight='normal'>Escala 1:2 (imprimir A3 al 100 %)</text>
+<text x='242.00' y='402.50' font-size='2.5' text-anchor='start' fill='#222' font-weight='normal'>Hoja 1/1 · v2 · 12-11-2026</text>
+<text x='172.00' y='409.50' font-size='2.5' text-anchor='start' fill='#222' font-weight='normal'>Máquina 330 × 330 × 420 · cotas en mm</text>
+<text x='242.00' y='409.50' font-size='2.5' text-anchor='start' fill='#222' font-weight='normal'>UPM ETSIDI · SED 2026-27</text>
+<rect x='14.00' y='14.00' width='10.00' height='2.00' fill='#222' stroke='#222' stroke-width='0.2'/>
+<rect x='24.00' y='14.00' width='10.00' height='2.00' fill='white' stroke='#222' stroke-width='0.2'/>
+<rect x='34.00' y='14.00' width='10.00' height='2.00' fill='#222' stroke='#222' stroke-width='0.2'/>
+<rect x='44.00' y='14.00' width='10.00' height='2.00' fill='white' stroke='#222' stroke-width='0.2'/>
+<rect x='54.00' y='14.00' width='10.00' height='2.00' fill='#222' stroke='#222' stroke-width='0.2'/>
+<text x='14.00' y='20.00' font-size='2.0' text-anchor='middle' fill='#222' font-weight='normal'>0</text>
+<text x='64.00' y='20.00' font-size='2.0' text-anchor='middle' fill='#222' font-weight='normal'>100 mm</text>
+<text x='68.00' y='16.20' font-size='2.0' text-anchor='start' fill='#666' font-weight='normal'>barra de 100 mm reales: mide 50 mm si la escala es 1:2 (A3 al 100 %). En A4 sale ≈ 1:2,8.</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2ZWFmMjk5Yi00OGUzLTQ3ZGMtOGQ4ZS04MjIxMzMyM2ViZDYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaB4v0f0UpSsnjUgAyqjsso0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphMDYyYTNmNS1lYWI1LTQ1YWItODRkNy05YzI4MmQyYjE2ZjZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo4PQDkJbe4+QOf84itjzxygAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg73IVZhSs9VYWo4hHPOd3kFDE1SKk3kdntEWPfLa4d5ekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaErv78bJ6e/Rq8Jna8nwf8MAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRKAAAAAAAAAAAAAGRoYXNoWCBZfr4w/Cldg2kgedgMVe9SoCu5XLXvxEjpSIPqrOd9TWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBoAAS+gZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjZlYWYyOTliLTQ4ZTMtNDdkYy04ZDhlLTgyMjEzMzIzZWJkNi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmI0ZDJlZmQ2LTdhYmEtNGJjMS1hMmNlLTUyY2Y2YWM4Y2Q4Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDvchVmFKz1VhajiEc853eQUMTVIqTeR2e0RY98trh3l6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggQTNKcnRZDhPhcW2lunefe38x/YS3M3MvObCKkgQxCHqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggfzdS27tWZUppEunEMOp1VSbZx78frpYawDnZvGre9Yp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIgR8HzAw1GCOaP4mGtlUzViuLPprxGng2SIX5ctcMmp0A/NUHWph/gspkObTtADwD7jp2SHrWSLBlgN0gWZtjk=</c2pa:manifest></metadata></svg>

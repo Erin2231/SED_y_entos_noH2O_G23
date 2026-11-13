@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "script",
+	"author": "SED G23",
+	"description": {
+		"": "Crea las piezas del sistema de monedas (carril A, tapa A-T, portasensor A-S, cubilete B)"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}

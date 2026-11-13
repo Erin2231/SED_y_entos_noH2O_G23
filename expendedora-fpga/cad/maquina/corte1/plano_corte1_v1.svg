@@ -1,0 +1,274 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='297.0mm' height='420.0mm' viewBox='0 0 297.0 420.0' font-family='DejaVu Sans, Arial, sans-serif' xmlns:c2pa="http://c2pa.org/manifest">
+<defs><pattern id='hm' width='1.6' height='1.6' patternUnits='userSpaceOnUse' patternTransform='rotate(45)'><rect width='1.6' height='1.6' fill='#d3dae3'/><line x1='0' y1='0' x2='0' y2='1.6' stroke='#5b6b80' stroke-width='0.18'/></pattern><pattern id='hw' width='2.2' height='2.2' patternUnits='userSpaceOnUse' patternTransform='rotate(-45)'><rect width='2.2' height='2.2' fill='#ebe7e1'/><line x1='0' y1='0' x2='0' y2='2.2' stroke='#a39886' stroke-width='0.18'/></pattern><pattern id='hp' width='2' height='2' patternUnits='userSpaceOnUse' patternTransform='rotate(45)'><rect width='2' height='2' fill='#f3f3f3'/><line x1='0' y1='0' x2='0' y2='2' stroke='#b5b5b5' stroke-width='0.15'/></pattern><marker id='m' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='4' markerHeight='4' orient='auto-start-reverse'><path d='M0,1L10,5L0,9z' fill='#8b1e1e'/></marker><marker id='mb' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='4' markerHeight='4' orient='auto-start-reverse'><path d='M0,1L10,5L0,9z' fill='#2f5d8a'/></marker></defs>
+<rect width='297.0' height='420.0' fill='white'/>
+<rect x='8' y='8' width='281.0' height='404.0' fill='none' stroke='#222' stroke-width='0.5'/>
+<path d='M223.00,262.00 L58.00,262.00 L58.00,258.00 L223.00,258.00 L223.00,262.00 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M223.00,56.00 L58.00,56.00 L58.00,52.00 L223.00,52.00 L223.00,56.00 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M62.00,229.50 L58.00,229.50 L58.00,177.25 L62.00,177.25 L62.00,229.50 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M62.00,170.75 L58.00,170.75 L58.00,117.00 L62.00,117.00 L62.00,170.75 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M62.00,105.00 L58.00,105.00 L58.00,101.50 L62.00,101.50 L62.00,105.00 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M62.00,62.50 L58.00,62.50 L58.00,56.00 L62.00,56.00 L62.00,62.50 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M223.00,214.50 L219.00,214.50 L219.00,56.00 L223.00,56.00 L223.00,214.50 Z' fill='url(#hw)' fill-rule='evenodd' stroke='#444' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M105.50,258.00 L58.00,258.00 L58.00,229.50 L59.25,229.50 L59.25,256.75 L104.25,256.75 L104.25,229.50 L105.50,229.50 L105.50,258.00 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M223.00,258.00 L185.50,258.00 L185.50,214.50 L186.75,214.50 L186.75,256.75 L221.75,256.75 L221.75,214.50 L223.00,214.50 L223.00,258.00 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M193.00,212.00 L191.50,212.00 L191.50,198.52 L193.00,198.52 L193.00,212.00 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M108.00,214.50 L106.50,214.50 L106.50,135.08 L108.00,135.08 L108.00,214.50 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M123.50,212.81 L122.00,212.81 L122.00,139.08 L123.50,139.08 L123.50,212.81 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M122.00,140.58 L122.00,139.08 L139.36,128.02 L159.50,140.85 L159.50,142.35 L139.36,129.80 L122.00,140.58 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M104.00,227.73 L104.00,226.23 L169.50,184.50 L191.50,198.52 L191.50,200.02 L169.50,186.28 L104.00,227.73 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M159.50,180.50 L158.00,180.50 L158.00,145.50 L159.50,145.50 L159.50,180.50 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M181.00,145.50 L179.50,145.50 L179.50,180.50 L181.00,180.50 L181.00,145.50 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M162.40,176.20 L159.85,176.20 L159.85,175.00 L179.15,175.00 L179.15,176.20 L176.60,176.20 L176.60,178.00 L173.40,178.00 L173.40,176.20 L171.25,176.20 L171.25,178.00 L167.75,178.00 L167.75,176.20 L165.60,176.20 L165.60,178.00 L162.40,178.00 L162.40,176.20 Z' fill='url(#hp)' fill-rule='evenodd' stroke='#555' stroke-width='0.25' stroke-dasharray='1.2 0.6' stroke-linejoin='round'/>
+<path d='M129.36,124.02 L127.86,124.02 L127.86,104.02 L129.36,104.02 L129.36,124.02 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M150.86,124.02 L150.86,104.02 L149.36,104.02 L149.36,124.02 L150.86,124.02 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M132.26,119.72 L129.71,119.72 L129.71,118.52 L149.01,118.52 L149.01,119.72 L146.46,119.72 L146.46,121.52 L143.26,121.52 L143.26,119.72 L141.11,119.72 L141.11,121.52 L137.61,121.52 L137.61,119.72 L135.46,119.72 L135.46,121.52 L132.26,121.52 L132.26,119.72 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M60.00,92.00 L60.00,87.72 L133.57,100.69 L133.83,99.18 L60.00,86.16 L60.00,84.60 L58.00,84.25 L58.00,92.00 L60.00,92.00 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M58.00,82.09 L134.47,95.57 L136.67,83.07 L119.70,80.08 L119.67,80.14 L119.64,80.20 L119.61,80.25 L119.57,80.31 L119.53,80.36 L119.48,80.41 L119.43,80.44 L119.36,80.45 L119.31,80.42 L119.27,80.37 L119.24,80.31 L119.22,80.25 L119.20,80.18 L119.19,80.12 L119.18,80.05 L119.17,79.99 L80.31,73.13 L80.28,73.19 L80.25,73.25 L80.22,73.31 L80.18,73.36 L80.14,73.42 L80.09,73.46 L80.04,73.50 L79.97,73.51 L79.91,73.48 L79.88,73.42 L79.85,73.36 L79.83,73.30 L79.81,73.24 L79.80,73.17 L79.79,73.11 L79.78,73.04 L60.00,69.55 L60.00,63.00 L58.00,63.00 L58.00,82.09 Z M85.39,85.97 L85.21,85.89 L85.07,85.76 L84.99,85.57 L84.99,85.38 L85.06,85.19 L85.19,85.05 L85.37,84.97 L85.57,84.96 L85.75,85.03 L85.89,85.17 L85.97,85.35 L85.97,85.55 L85.90,85.73 L85.77,85.88 L85.59,85.96 L85.39,85.97 Z M96.12,82.72 L95.83,82.60 L95.60,82.38 L95.48,82.09 L95.47,81.77 L95.59,81.48 L95.80,81.25 L96.09,81.12 L96.40,81.11 L96.70,81.22 L96.92,81.45 L97.04,81.74 L97.05,82.05 L96.94,82.35 L96.72,82.58 L96.43,82.71 L96.12,82.72 Z M91.08,82.48 L90.79,82.36 L90.57,82.14 L90.44,81.85 L90.44,81.54 L90.55,81.24 L90.77,81.01 L91.05,80.88 L91.37,80.87 L91.66,80.99 L91.89,81.21 L92.01,81.50 L92.01,81.81 L91.90,82.11 L91.69,82.34 L91.40,82.47 L91.08,82.48 Z M101.15,82.96 L100.86,82.84 L100.64,82.62 L100.51,82.33 L100.51,82.01 L100.62,81.72 L100.84,81.49 L101.12,81.36 L101.44,81.35 L101.73,81.46 L101.96,81.69 L102.08,81.98 L102.08,82.29 L101.97,82.59 L101.76,82.82 L101.47,82.95 L101.15,82.96 Z M106.17,83.32 L105.87,83.21 L105.65,82.99 L105.53,82.69 L105.52,82.38 L105.63,82.08 L105.85,81.85 L106.13,81.72 L106.45,81.71 L106.74,81.83 L106.97,82.05 L107.09,82.34 L107.10,82.66 L106.98,82.95 L106.77,83.18 L106.48,83.31 L106.17,83.32 Z M114.94,91.18 L114.75,91.10 L114.61,90.96 L114.54,90.78 L114.53,90.59 L114.60,90.40 L114.74,90.26 L114.92,90.17 L115.11,90.17 L115.30,90.24 L115.44,90.38 L115.51,90.56 L115.52,90.76 L115.45,90.94 L115.31,91.09 L115.13,91.17 L114.94,91.18 Z M111.18,83.69 L110.89,83.57 L110.66,83.35 L110.54,83.06 L110.53,82.74 L110.65,82.45 L110.86,82.22 L111.15,82.09 L111.46,82.08 L111.76,82.19 L111.98,82.41 L112.10,82.71 L112.11,83.02 L112.00,83.32 L111.78,83.55 L111.49,83.68 L111.18,83.69 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M119.70,80.08 L119.67,80.14 L119.64,80.20 L119.61,80.25 L119.57,80.31 L119.53,80.36 L119.48,80.41 L119.43,80.44 L119.36,80.45 L119.31,80.42 L119.27,80.37 L119.24,80.31 L119.22,80.25 L119.20,80.18 L119.19,80.12 L119.18,80.05 L119.17,79.99 L119.18,79.99 L119.18,79.99 L119.18,79.99 L119.18,79.99 L119.18,79.99 L119.18,79.99 L119.18,79.99 L119.18,79.99 L119.18,79.99 L119.18,79.99 L119.18,79.99 L119.18,79.99 L119.19,79.99 L119.19,79.99 L119.19,79.99 L119.19,79.99 L119.20,80.05 L119.21,80.11 L119.22,80.17 L119.23,80.23 L119.26,80.28 L119.28,80.33 L119.32,80.38 L119.37,80.41 L119.43,80.40 L119.48,80.37 L119.53,80.33 L119.57,80.28 L119.60,80.23 L119.63,80.18 L119.66,80.13 L119.69,80.08 L119.69,80.08 L119.69,80.08 L119.69,80.08 L119.69,80.08 L119.69,80.08 L119.70,80.08 L119.70,80.08 L119.70,80.08 L119.70,80.08 L119.70,80.08 L119.70,80.08 L119.70,80.08 L119.70,80.08 L119.70,80.08 L119.70,80.08 L119.70,80.08 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M80.31,73.13 L80.28,73.19 L80.25,73.25 L80.22,73.31 L80.18,73.36 L80.14,73.42 L80.09,73.46 L80.04,73.50 L79.97,73.51 L79.91,73.48 L79.88,73.42 L79.85,73.36 L79.83,73.30 L79.81,73.24 L79.80,73.17 L79.79,73.11 L79.78,73.04 L79.78,73.04 L79.78,73.04 L79.78,73.04 L79.79,73.04 L79.79,73.04 L79.79,73.04 L79.79,73.04 L79.79,73.04 L79.79,73.04 L79.79,73.04 L79.79,73.04 L79.79,73.04 L79.79,73.04 L79.79,73.04 L79.79,73.04 L79.80,73.04 L79.80,73.10 L79.81,73.16 L79.83,73.22 L79.84,73.28 L79.86,73.34 L79.89,73.39 L79.93,73.44 L79.98,73.46 L80.04,73.46 L80.09,73.42 L80.13,73.38 L80.17,73.34 L80.21,73.29 L80.24,73.24 L80.27,73.19 L80.30,73.13 L80.30,73.13 L80.30,73.13 L80.30,73.13 L80.30,73.13 L80.30,73.13 L80.30,73.13 L80.30,73.13 L80.30,73.13 L80.31,73.13 L80.31,73.13 L80.31,73.13 L80.31,73.13 L80.31,73.13 L80.31,73.13 L80.31,73.13 L80.31,73.13 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M79.57,73.00 L79.58,72.91 L79.58,72.81 L79.59,72.71 L79.59,72.62 L79.60,72.52 L79.61,72.43 L79.61,72.33 L79.62,72.23 L79.63,72.14 L79.64,72.04 L79.66,71.95 L79.67,71.85 L79.68,71.76 L79.69,71.66 L79.71,71.57 L79.72,71.47 L64.06,68.71 L63.80,70.22 L79.57,73.00 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M118.97,79.95 L118.97,79.85 L118.97,79.76 L118.98,79.66 L118.98,79.56 L118.99,79.47 L119.00,79.37 L119.01,79.28 L119.02,79.18 L119.03,79.08 L119.04,78.99 L119.05,78.89 L119.06,78.80 L119.07,78.70 L119.09,78.61 L119.10,78.51 L119.12,78.42 L80.90,71.68 L80.88,71.77 L80.87,71.87 L80.85,71.96 L80.83,72.06 L80.80,72.15 L80.78,72.24 L80.76,72.34 L80.74,72.43 L80.71,72.52 L80.69,72.62 L80.66,72.71 L80.64,72.80 L80.61,72.89 L80.58,72.99 L80.55,73.08 L80.52,73.17 L118.97,79.95 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M136.67,83.07 L136.94,81.56 L120.30,78.63 L120.28,78.72 L120.26,78.81 L120.24,78.91 L120.22,79.00 L120.20,79.10 L120.17,79.19 L120.15,79.28 L120.13,79.38 L120.10,79.47 L120.08,79.56 L120.05,79.66 L120.03,79.75 L120.00,79.84 L119.97,79.93 L119.94,80.02 L119.91,80.12 L136.67,83.07 Z' fill='url(#hm)' fill-rule='evenodd' stroke='#222' stroke-width='0.3' stroke-linejoin='round'/>
+<path d='M62.80,120.00 L62.00,120.00 L62.00,102.00 L62.80,102.00 L62.80,120.00 Z' fill='#53675a' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M64.75,119.00 L62.80,119.00 L62.80,103.00 L64.75,103.00 L64.75,119.00 Z' fill='#53675a' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M62.00,117.00 L58.50,117.00 L58.50,105.00 L62.00,105.00 L62.00,117.00 Z' fill='#2e3a31' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M58.00,162.00 L57.50,162.00 L57.50,123.50 L58.00,123.50 L58.00,162.00 Z' fill='#cfcfcf' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M69.50,182.00 L68.50,182.00 L68.50,166.00 L69.50,166.00 L69.50,182.00 Z' fill='#7a8f6e' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M68.50,177.00 L68.50,171.00 L62.50,171.00 L56.50,171.00 L56.50,177.00 L62.50,177.00 L68.50,177.00 Z' fill='#8a3b3b' fill-rule='evenodd' stroke='#222' stroke-width='0.25' stroke-linejoin='round'/>
+<path d='M133.68,100.05 L134.48,95.52 L60.10,82.40 L60.10,87.08 L133.68,100.05 Z' fill='none' stroke='#5b6b80' stroke-width='0.2' stroke-dasharray='0.8 0.5'/>
+<path d='M60.10,82.40 L134.48,95.52 L134.49,95.47 L60.10,82.35 L60.10,82.40 Z' fill='none' stroke='#5b6b80' stroke-width='0.2' stroke-dasharray='0.8 0.5'/>
+<line x1='136.36' y1='120.02' x2='142.36' y2='120.02' stroke='#888' stroke-width='0.12' stroke-dasharray='2 0.6 0.4 0.6'/>
+<line x1='139.36' y1='117.02' x2='139.36' y2='123.02' stroke='#888' stroke-width='0.12' stroke-dasharray='2 0.6 0.4 0.6'/>
+<line x1='166.50' y1='176.50' x2='172.50' y2='176.50' stroke='#888' stroke-width='0.12' stroke-dasharray='2 0.6 0.4 0.6'/>
+<line x1='169.50' y1='173.50' x2='169.50' y2='179.50' stroke='#888' stroke-width='0.12' stroke-dasharray='2 0.6 0.4 0.6'/>
+<text x='43.00' y='81.50' font-size='2.4' text-anchor='end' fill='#2f5d8a' font-weight='normal'>monedas</text>
+<line x1='44.00' y1='83.00' x2='59.00' y2='86.00' stroke='#2f5d8a' stroke-width='0.35'/>
+<line x1='44.00' y1='83.00' x2='59.00' y2='86.00' stroke='#2f5d8a' stroke-width='0.35' marker-end='url(#mb)'/>
+<polyline points='145.50,131.00 160.50,140.00' fill='none' stroke='#2f5d8a' stroke-width='0.3' stroke-dasharray='1.2 0.8' marker-end='url(#mb)'/>
+<polyline points='133.00,131.00 115.00,144.00 115.00,206.00' fill='none' stroke='#8b1e1e' stroke-width='0.3' stroke-dasharray='1.2 0.8' marker-end='url(#m)'/>
+<polyline points='176.50,187.00 189.00,196.00 189.00,212.00' fill='none' stroke='#2f5d8a' stroke-width='0.3' stroke-dasharray='1.2 0.8' marker-end='url(#mb)'/>
+<polyline points='160.50,189.00 113.00,219.00 88.00,229.00' fill='none' stroke='#8b1e1e' stroke-width='0.3' stroke-dasharray='1.2 0.8' marker-end='url(#m)'/>
+<line x1='58.00' y1='273.00' x2='223.00' y2='273.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='140.50' y='276.20' font-size='2.4' text-anchor='middle' fill='#8b1e1e' font-weight='normal'>330</text>
+<line x1='263.00' y1='262.00' x2='263.00' y2='52.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='264.20' y='157.90' font-size='2.4' text-anchor='start' fill='#8b1e1e' font-weight='normal'>420</text>
+<line x1='223.00' y1='63.00' x2='228.00' y2='63.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='63.90' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>398 techo del carril</text>
+<line x1='223.00' y1='86.00' x2='228.00' y2='86.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='86.90' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>352 suelo del carril en la entrada</text>
+<line x1='223.00' y1='99.00' x2='228.00' y2='99.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='99.90' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>326 final del carril</text>
+<line x1='223.00' y1='104.00' x2='228.00' y2='104.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='104.90' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>316 boca de B</text>
+<line x1='223.00' y1='120.00' x2='228.00' y2='120.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='120.90' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>284 eje trampilla B</text>
+<line x1='223.00' y1='128.00' x2='228.00' y2='128.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='128.90' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>268 vértice Λ-B</text>
+<line x1='223.00' y1='145.50' x2='228.00' y2='145.50' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='146.40' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>233 boca de C</text>
+<line x1='223.00' y1='176.50' x2='228.00' y2='176.50' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='177.40' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>171 eje trampilla C</text>
+<line x1='223.00' y1='184.50' x2='228.00' y2='184.50' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='185.40' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>155 vértice Λ-C</text>
+<line x1='223.00' y1='214.50' x2='228.00' y2='214.50' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='215.40' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>95 hucha</text>
+<line x1='223.00' y1='229.50' x2='228.00' y2='229.50' stroke='#8b1e1e' stroke-width='0.15'/>
+<text x='229.00' y='230.40' font-size='2.3' text-anchor='start' fill='#8b1e1e' font-weight='normal'>65 cajón devolución</text>
+<line x1='56.00' y1='120.00' x2='54.00' y2='120.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<line x1='56.00' y1='102.00' x2='54.00' y2='102.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<line x1='55.00' y1='120.00' x2='55.00' y2='102.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='54.00' y='111.90' font-size='2.3' text-anchor='end' fill='#8b1e1e' font-weight='normal'>LCD 284-320</text>
+<line x1='56.00' y1='162.00' x2='54.00' y2='162.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<line x1='56.00' y1='123.50' x2='54.00' y2='123.50' stroke='#8b1e1e' stroke-width='0.15'/>
+<line x1='55.00' y1='162.00' x2='55.00' y2='123.50' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='54.00' y='143.65' font-size='2.3' text-anchor='end' fill='#8b1e1e' font-weight='normal'>numpad 200-277</text>
+<line x1='56.00' y1='177.00' x2='54.00' y2='177.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<line x1='56.00' y1='171.00' x2='54.00' y2='171.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<line x1='55.00' y1='177.00' x2='55.00' y2='171.00' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='54.00' y='174.90' font-size='2.3' text-anchor='end' fill='#8b1e1e' font-weight='normal'>pulsador 176</text>
+<line x1='56.00' y1='258.00' x2='54.00' y2='258.00' stroke='#8b1e1e' stroke-width='0.15'/>
+<line x1='56.00' y1='229.50' x2='54.00' y2='229.50' stroke='#8b1e1e' stroke-width='0.15'/>
+<line x1='55.00' y1='258.00' x2='55.00' y2='229.50' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='54.00' y='244.65' font-size='2.3' text-anchor='end' fill='#8b1e1e' font-weight='normal'>devolución 8-65</text>
+<line x1='184.50' y1='180.50' x2='184.50' y2='145.50' stroke='#8b1e1e' stroke-width='0.18' marker-start='url(#m)' marker-end='url(#m)'/>
+<text x='185.70' y='163.90' font-size='2.4' text-anchor='start' fill='#8b1e1e' font-weight='normal'>70</text>
+<text x='153.00' y='164.00' font-size='2.2' text-anchor='start' fill='#666' font-weight='normal'>32,5°</text>
+<text x='128.00' y='203.00' font-size='2.2' text-anchor='start' fill='#666' font-weight='normal'>32,5°</text>
+<line x1='93.00' y1='76.00' x2='85.50' y2='58.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='93.00' cy='76.00' r='0.45' fill='#222'/>
+<circle cx='85.50' cy='58.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='85.50' y='58.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>1</text>
+<line x1='108.00' y1='73.00' x2='113.00' y2='58.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='108.00' cy='73.00' r='0.45' fill='#222'/>
+<circle cx='113.00' cy='58.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='113.00' y='58.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>2</text>
+<line x1='128.00' y1='92.00' x2='138.00' y2='86.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='128.00' cy='92.00' r='0.45' fill='#222'/>
+<circle cx='138.00' cy='86.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='138.00' y='86.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>3</text>
+<line x1='129.00' y1='112.00' x2='119.00' y2='112.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='129.00' cy='112.00' r='0.45' fill='#222'/>
+<circle cx='119.00' cy='112.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='119.00' y='112.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>4</text>
+<line x1='139.00' y1='119.00' x2='133.00' y2='116.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='139.00' cy='119.00' r='0.45' fill='#222'/>
+<circle cx='133.00' cy='116.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='133.00' y='116.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>5</text>
+<line x1='159.00' y1='157.00' x2='167.00' y2='162.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='159.00' cy='157.00' r='0.45' fill='#222'/>
+<circle cx='167.00' cy='162.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='167.00' y='162.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>6</text>
+<line x1='173.00' y1='175.00' x2='195.50' y2='171.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='173.00' cy='175.00' r='0.45' fill='#222'/>
+<circle cx='195.50' cy='171.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='195.50' y='171.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>7</text>
+<line x1='153.00' y1='137.00' x2='160.50' y2='128.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='153.00' cy='137.00' r='0.45' fill='#222'/>
+<circle cx='160.50' cy='128.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='160.50' y='128.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>8</text>
+<line x1='148.00' y1='194.50' x2='143.00' y2='199.50' stroke='#222' stroke-width='0.15'/>
+<circle cx='148.00' cy='194.50' r='0.45' fill='#222'/>
+<circle cx='143.00' cy='199.50' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='143.00' y='200.40' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>9</text>
+<line x1='114.50' y1='172.00' x2='125.50' y2='167.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='114.50' cy='172.00' r='0.45' fill='#222'/>
+<circle cx='125.50' cy='167.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='125.50' y='167.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>10</text>
+<line x1='83.00' y1='242.00' x2='80.50' y2='222.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='83.00' cy='242.00' r='0.45' fill='#222'/>
+<circle cx='80.50' cy='222.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='80.50' y='222.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>11</text>
+<line x1='203.00' y1='232.00' x2='208.00' y2='204.50' stroke='#222' stroke-width='0.15'/>
+<circle cx='203.00' cy='232.00' r='0.45' fill='#222'/>
+<circle cx='208.00' cy='204.50' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='208.00' y='205.40' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>12</text>
+<line x1='60.50' y1='111.00' x2='70.50' y2='111.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='60.50' cy='111.00' r='0.45' fill='#222'/>
+<circle cx='70.50' cy='111.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='70.50' y='111.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>13</text>
+<line x1='57.75' y1='142.00' x2='70.50' y2='139.50' stroke='#222' stroke-width='0.15'/>
+<circle cx='57.75' cy='142.00' r='0.45' fill='#222'/>
+<circle cx='70.50' cy='139.50' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='70.50' y='140.40' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>14</text>
+<line x1='63.00' y1='174.00' x2='73.00' y2='174.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='63.00' cy='174.00' r='0.45' fill='#222'/>
+<circle cx='73.00' cy='174.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='73.00' y='174.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>15</text>
+<line x1='60.00' y1='192.00' x2='70.50' y2='192.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='60.00' cy='192.00' r='0.45' fill='#222'/>
+<circle cx='70.50' cy='192.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='70.50' y='192.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>16</text>
+<line x1='221.00' y1='137.00' x2='210.50' y2='137.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='221.00' cy='137.00' r='0.45' fill='#222'/>
+<circle cx='210.50' cy='137.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='210.50' y='137.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>17</text>
+<line x1='138.00' y1='260.00' x2='138.00' y2='250.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='138.00' cy='260.00' r='0.45' fill='#222'/>
+<circle cx='138.00' cy='250.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='138.00' y='250.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>18</text>
+<line x1='158.00' y1='54.00' x2='173.00' y2='47.00' stroke='#222' stroke-width='0.15'/>
+<circle cx='158.00' cy='54.00' r='0.45' fill='#222'/>
+<circle cx='173.00' cy='47.00' r='2.3' fill='white' stroke='#222' stroke-width='0.25'/>
+<text x='173.00' y='47.90' font-size='2.5' text-anchor='middle' fill='#222' font-weight='bold'>19</text>
+<text x='14.00' y='290.00' font-size='3.4' text-anchor='start' fill='#222' font-weight='bold'>Lista de piezas del corte</text>
+<text x='14.00' y='296.00' font-size='2.4' text-anchor='start' fill='#666' font-weight='bold'>n.º</text>
+<text x='22.00' y='296.00' font-size='2.4' text-anchor='start' fill='#666' font-weight='bold'>pieza</text>
+<text x='112.00' y='296.00' font-size='2.4' text-anchor='start' fill='#666' font-weight='bold'>origen</text>
+<text x='150.00' y='296.00' font-size='2.4' text-anchor='start' fill='#666' font-weight='bold'>medidas / notas</text>
+<line x1='14.00' y1='297.20' x2='283.00' y2='297.20' stroke='#222' stroke-width='0.2'/>
+<text x='14.00' y='301.00' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>1</text>
+<text x='22.00' y='301.00' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>A carril de medida</text>
+<text x='112.00' y='301.00' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>modelo · PLA</text>
+<text x='150.00' y='301.00' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>150 mm a 10°, 7 barreras IR</text>
+<text x='14.00' y='305.10' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>2</text>
+<text x='22.00' y='305.10' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>A-T tapa del canal</text>
+<text x='112.00' y='305.10' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>modelo · PLA</text>
+<text x='150.00' y='305.10' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>2 × M2×6</text>
+<text x='14.00' y='309.20' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>3</text>
+<text x='22.00' y='309.20' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>A-F pared de fototransistores (detrás)</text>
+<text x='112.00' y='309.20' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>modelo · PLA</text>
+<text x='150.00' y='309.20' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>3 × M2×6 + 5 × A-S</text>
+<text x='14.00' y='313.30' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>4</text>
+<text x='22.00' y='313.30' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>B cubilete de espera</text>
+<text x='112.00' y='313.30' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>modelo · PLA</text>
+<text x='150.00' y='313.30' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>46 × 46 × 40, SG90 a 16 mm</text>
+<text x='14.00' y='317.40' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>5</text>
+<text x='22.00' y='317.40' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>B-TP / B-TS trampilla + B-AC + 2 B-PZ</text>
+<text x='112.00' y='317.40' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>modelo · PLA</text>
+<text x='150.00' y='317.40' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>giro ±40°</text>
+<text x='14.00' y='321.50' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>6</text>
+<text x='22.00' y='321.50' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>C escrow (20 monedas)</text>
+<text x='112.00' y='321.50' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>por diseñar</text>
+<text x='150.00' y='321.50' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>como B, 70 de alto, 2º SG90</text>
+<text x='14.00' y='325.60' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>7</text>
+<text x='22.00' y='325.60' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Trampilla de C</text>
+<text x='112.00' y='325.60' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>modelo · PLA</text>
+<text x='150.00' y='325.60' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>las mismas piezas que B</text>
+<text x='14.00' y='329.70' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>8</text>
+<text x='22.00' y='329.70' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Λ-B cresta: válidas → C / no válidas → canal</text>
+<text x='112.00' y='329.70' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>por diseñar</text>
+<text x='150.00' y='329.70' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>115°, 16 bajo el eje</text>
+<text x='14.00' y='333.80' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>9</text>
+<text x='22.00' y='333.80' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Λ-C cresta y rampas: hucha / devolución</text>
+<text x='112.00' y='333.80' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>por diseñar</text>
+<text x='150.00' y='333.80' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>rampas a 32,5°</text>
+<text x='14.00' y='337.90' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>10</text>
+<text x='22.00' y='337.90' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Canal de no válidas</text>
+<text x='112.00' y='337.90' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>por diseñar</text>
+<text x='150.00' y='337.90' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>28 de paso</text>
+<text x='14.00' y='342.00' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>11</text>
+<text x='22.00' y='342.00' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Cajón de devolución y cambio</text>
+<text x='112.00' y='342.00' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>por diseñar · PLA</text>
+<text x='150.00' y='342.00' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>95 × 57 × ≈90, a ras</text>
+<text x='14.00' y='346.10' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>12</text>
+<text x='22.00' y='346.10' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Hucha</text>
+<text x='112.00' y='346.10' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>por diseñar · PLA</text>
+<text x='150.00' y='346.10' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>≈ 67 × 87 × 100, por detrás</text>
+<text x='14.00' y='350.20' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>13</text>
+<text x='22.00' y='350.20' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Pantalla LCD 16×2 HD44780</text>
+<text x='112.00' y='350.20' font-size='2.4' text-anchor='start' fill='#8b1e1e' font-weight='normal'>comprar</text>
+<text x='150.00' y='350.20' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>80 × 36 × 12,5</text>
+<text x='14.00' y='354.30' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>14</text>
+<text x='22.00' y='354.30' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Teclado de membrana 3×4</text>
+<text x='112.00' y='354.30' font-size='2.4' text-anchor='start' fill='#8b1e1e' font-weight='normal'>comprar</text>
+<text x='150.00' y='354.30' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>70 × 77 × 1, adhesivo</text>
+<text x='14.00' y='358.40' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>15</text>
+<text x='22.00' y='358.40' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Pulsador cancelar</text>
+<text x='112.00' y='358.40' font-size='2.4' text-anchor='start' fill='#8b1e1e' font-weight='normal'>comprar / tenéis</text>
+<text x='150.00' y='358.40' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Ø12 de panel o táctil + tapa</text>
+<text x='14.00' y='362.50' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>16</text>
+<text x='22.00' y='362.50' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Frontal (en guías)</text>
+<text x='112.00' y='362.50' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>DM 8 mm</text>
+<text x='150.00' y='362.50' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>314 × 404</text>
+<text x='14.00' y='366.60' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>17</text>
+<text x='22.00' y='366.60' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Trasera (en guías)</text>
+<text x='112.00' y='366.60' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>DM 8 mm</text>
+<text x='150.00' y='366.60' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>314 × 404</text>
+<text x='14.00' y='370.70' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>18</text>
+<text x='22.00' y='370.70' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Suelo</text>
+<text x='112.00' y='370.70' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>DM 8 mm</text>
+<text x='150.00' y='370.70' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>314 × 330</text>
+<text x='14.00' y='374.80' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>19</text>
+<text x='22.00' y='374.80' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>Techo</text>
+<text x='112.00' y='374.80' font-size='2.4' text-anchor='start' fill='#666' font-weight='normal'>DM 8 mm</text>
+<text x='150.00' y='374.80' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>314 × 330</text>
+<rect x='198' y='27.2' width='7' height='3.6' fill='url(#hm)' stroke='#222' stroke-width='0.2'/>
+<text x='207.00' y='30.00' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>pieza diseñada (cotas del modelo)</text>
+<rect x='198' y='32.7' width='7' height='3.6' fill='url(#hp)' stroke='#222' stroke-width='0.2' stroke-dasharray='1.2 0.6'/>
+<text x='207.00' y='35.50' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>pieza prevista, por diseñar</text>
+<rect x='198' y='38.2' width='7' height='3.6' fill='url(#hw)' stroke='#222' stroke-width='0.2'/>
+<text x='207.00' y='41.00' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>carcasa (DM 8 mm o impresa)</text>
+<rect x='198' y='43.7' width='7' height='3.6' fill='#53675a' stroke='#222' stroke-width='0.2'/>
+<text x='207.00' y='46.50' font-size='2.4' text-anchor='start' fill='#222' font-weight='normal'>componente comprado</text>
+<rect x='169.0' y='386.0' width='120' height='26' fill='none' stroke='#222' stroke-width='0.4'/>
+<line x1='169.00' y1='396.00' x2='289.00' y2='396.00' stroke='#222' stroke-width='0.25'/>
+<line x1='169.00' y1='404.00' x2='289.00' y2='404.00' stroke='#222' stroke-width='0.25'/>
+<line x1='239.00' y1='396.00' x2='239.00' y2='412.00' stroke='#222' stroke-width='0.25'/>
+<text x='172.00' y='393.00' font-size='3.2' text-anchor='start' fill='#222' font-weight='bold'>Máquina expendedora SED · Corte 1: columna de monedas</text>
+<text x='172.00' y='401.00' font-size='2.6' text-anchor='start' fill='#222' font-weight='normal'>Escala 1:2 (imprimir en A3 al 100 %)</text>
+<text x='242.00' y='401.00' font-size='2.6' text-anchor='start' fill='#222' font-weight='normal'>Hoja 1/1 · v1 · 12-11-2026</text>
+<text x='172.00' y='409.00' font-size='2.6' text-anchor='start' fill='#222' font-weight='normal'>Cotas en mm · máquina 330 × 330 × 420</text>
+<text x='242.00' y='409.00' font-size='2.6' text-anchor='start' fill='#222' font-weight='normal'>UPM ETSIDI · SED 2026-27</text>
+<text x='14.00' y='18.00' font-size='2.3' text-anchor='start' fill='#666' font-weight='normal'>Corte quebrado: carril, B y C por el recorrido de las monedas (a 9,5-12 mm de la pared lateral); carcasa, crestas, cajones y frontal por el centro de la columna (63 mm).</text>
+<text x='14.00' y='22.00' font-size='2.3' text-anchor='start' fill='#666' font-weight='normal'>A-F (pared de fototransistores) queda detrás del plano y se dibuja en discontinua. Los servos SG90 quedan fuera del plano (lado opuesto a la pared).</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxM2IzMzk0Zi02NzE5LTRjMTMtYTZjYy1jODU3ODhlOTU2ZTEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHgpJn0/FJoGkAli0wrAxU8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1M2JkYmY5OC1jMmJiLTRjM2ItYjg1Ny1mNmFiMzcxYmMwYWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNod/qaLOQrqKy6HyzT2Ti/NAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgghgftaWqIsZIgkSgLWU5U/lIlXh7l7kOyf5JjT2nBYR+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAQDC6cPyCUcMy+4VRCYA6wAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIKO5Cm6ifDw+TbGblJ+huO6iUG5LfM1ncp5J73zQ27TIZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GZUKZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjEzYjMzOTRmLTY3MTktNGMxMy1hNmNjLWM4NTc4OGU5NTZlMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjFkYThiNTQ2LWVhZjItNDMxMS1hZmJjLTdjYzY1YjQ2OTkxNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCGB+1paoixkiCRKAtZTlT+UiVeHuXuQ7J/kmNPacFhH6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggxosqrs+Rn81mUufopruWhUQj6rUiCBxMfXOn0XRhSLiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggo5gM9pSJzq2o8v0E2M+FNSHYlExb2pMDqgkuJE2w1up0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEQchoUMwzTbGXcJF8XyfP2Pg+DFpV/py7xK67v1jB6b9LSJGTtz0HgrnFH72OxfZLiC/qtKi0+A/29MU3di8aM=</c2pa:manifest></metadata></svg>

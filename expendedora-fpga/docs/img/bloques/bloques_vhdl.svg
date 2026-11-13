@@ -1,0 +1,121 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 1000' width='1600' height='1000' font-family='DejaVu Sans, Arial, sans-serif' xmlns:c2pa="http://c2pa.org/manifest">
+<defs><marker id='ai' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0L10,5L0,10z' fill='#1b1b1b'/></marker><marker id='ap' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0L10,5L0,10z' fill='#c62828'/></marker><marker id='as' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0L10,5L0,10z' fill='#1458a8'/></marker><marker id='av' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0L10,5L0,10z' fill='#8e24aa'/></marker></defs>
+<rect width='1600' height='1000' fill='white'/>
+<text x='30' y='40' font-size='24' text-anchor='start' fill='#1b1b1b' font-weight='bold'>Diagrama de bloques · arquitectura VHDL</text>
+<text x='30' y='64' font-size='14' text-anchor='start' fill='#5f6368' font-weight='normal'>Entidad top: expendedora_top · reloj de 100 MHz de la Nexys · un testbench por módulo</text>
+<rect x='30' y='120' width='190' height='90' rx='8' fill='#e3f2fd' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='125.0' y='142' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>barreras[6:0]</text>
+<text x='125.0' y='162' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>P1, B1-B5, P2 (JA)</text>
+<rect x='30' y='250' width='190' height='90' rx='8' fill='#e3f2fd' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='125.0' y='272' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>numpad + cancelar</text>
+<text x='125.0' y='292' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>3 columnas, 4 filas,</text>
+<text x='125.0' y='309' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>cancelar (JB)</text>
+<rect x='30' y='380' width='190' height='70' rx='8' fill='#e3f2fd' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='125.0' y='402' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>clk 100 MHz</text>
+<rect x='270' y='110' width='230' height='110' rx='8' fill='#fff3e0' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='385.0' y='132' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>sincronizador</text>
+<text x='385.0' y='152' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>2 biestables por señal</text>
+<text x='385.0' y='169' font-size='12.5' text-anchor='middle' fill='#5f6368' font-weight='normal'>(evita metaestabilidad)</text>
+<rect x='270' y='240' width='230' height='110' rx='8' fill='#fff3e0' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='385.0' y='262' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>teclado + antirrebote</text>
+<text x='385.0' y='282' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>barrido del numpad 3×4</text>
+<text x='385.0' y='299' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>filtro 10 ms + flanco</text>
+<rect x='270' y='370' width='230' height='90' rx='8' fill='#fff3e0' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='385.0' y='392' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>divisor_reloj</text>
+<text x='385.0' y='412' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>tick_1ms, tick_1us</text>
+<rect x='560' y='90' width='280' height='170' rx='8' fill='#fff3e0' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='700.0' y='112' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>detector_monedas</text>
+<text x='700.0' y='132' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>espera P1 → lee B1-B5 → P2</text>
+<text x='700.0' y='149' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>código termómetro → valor</text>
+<text x='700.0' y='166' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>5, 10, 20, 50 c, 1 € o inválida</text>
+<text x='700.0' y='183' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>atasco: P1 sin P2 en 2 s</text>
+<rect x='560' y='290' width='280' height='120' rx='8' fill='#fff3e0' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='700.0' y='312' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>temporizadores</text>
+<text x='700.0' y='332' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>inactividad 30 s</text>
+<text x='700.0' y='349' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>tiempo de giro de servos</text>
+<text x='700.0' y='366' font-size='12.5' text-anchor='middle' fill='#5f6368' font-weight='normal'>(parámetros genéricos)</text>
+<rect x='930' y='90' width='300' height='590' rx='8' fill='#fff3e0' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='1080.0' y='112' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>fsm_control (Moore)</text>
+<text x='1080.0' y='132' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>REPOSO</text>
+<text x='1080.0' y='149' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>MIDIENDO</text>
+<text x='1080.0' y='166' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>ACEPTAR · RECHAZAR</text>
+<text x='1080.0' y='183' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>SELECCION</text>
+<text x='1080.0' y='200' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>AGOTADO (aviso)</text>
+<text x='1080.0' y='217' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>DISPENSAR</text>
+<text x='1080.0' y='234' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>COBRAR (depósito → hucha)</text>
+<text x='1080.0' y='251' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>DEVOLVER (depósito → bandeja)</text>
+<text x='1080.0' y='268' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>ATASCO</text>
+<text x='1080.0' y='285' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'></text>
+<text x='1080.0' y='302' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>decide posiciones de servos</text>
+<text x='1080.0' y='319' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>y el mensaje del LCD</text>
+<rect x='560' y='440' width='280' height='110' rx='8' fill='#fff3e0' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='700.0' y='462' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>credito</text>
+<text x='700.0' y='482' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>saldo en céntimos</text>
+<text x='700.0' y='499' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>+ moneda · − precio</text>
+<text x='700.0' y='516' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>¿saldo ≥ precio?</text>
+<rect x='560' y='580' width='280' height='140' rx='8' fill='#fff3e0' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='700.0' y='602' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>tabla_productos</text>
+<text x='700.0' y='622' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>precios: constantes (bitstream)</text>
+<text x='700.0' y='639' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>stock: registro por producto,</text>
+<text x='700.0' y='656' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>arranca en la cantidad máxima</text>
+<text x='700.0' y='673' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>−1 en cada venta · agotado = 0</text>
+<rect x='1290' y='90' width='280' height='130' rx='8' fill='#e8f5e9' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='1430.0' y='112' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>pwm_servo × 6</text>
+<text x='1430.0' y='132' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>50 Hz, pulso 1-2 ms</text>
+<text x='1430.0' y='149' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>2 compuertas de monedas</text>
+<text x='1430.0' y='166' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>4 productos</text>
+<rect x='1290' y='260' width='280' height='140' rx='8' fill='#e8f5e9' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='1430.0' y='282' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>mensajes</text>
+<text x='1430.0' y='302' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>textos fijos en ROM</text>
+<text x='1430.0' y='319' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>bin → BCD del saldo y precio</text>
+<text x='1430.0' y='336' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>«INSERTE MONEDAS», «AGOTADO»…</text>
+<rect x='1290' y='430' width='280' height='120' rx='8' fill='#e8f5e9' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='1430.0' y='452' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>controlador_lcd</text>
+<text x='1430.0' y='472' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>HD44780, 4 bits</text>
+<text x='1430.0' y='489' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>inicialización + escritura</text>
+<text x='1430.0' y='506' font-size='12.5' text-anchor='middle' fill='#5f6368' font-weight='normal'>(tiempos con tick_1us)</text>
+<rect x='1290' y='580' width='280' height='110' rx='8' fill='#eceff1' stroke='#1b1b1b' stroke-width='1.5' stroke-dasharray='6 4'/>
+<text x='1430.0' y='602' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>depuracion</text>
+<text x='1430.0' y='622' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>7 segmentos: estado y saldo</text>
+<text x='1430.0' y='639' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>LED: barreras en vivo</text>
+<rect x='1290' y='760' width='280' height='80' rx='8' fill='#e3f2fd' stroke='#1b1b1b' stroke-width='1.5'/>
+<text x='1430.0' y='782' font-size='14' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>a los pines</text>
+<text x='1430.0' y='802' font-size='12.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>JD servos · JC LCD</text>
+<polyline points='222,165 268,165' fill='none' stroke='#1b1b1b' stroke-width='2' marker-end='url(#ai)'/>
+<polyline points='222,295 268,295' fill='none' stroke='#1b1b1b' stroke-width='2' marker-end='url(#ai)'/>
+<polyline points='222,415 268,415' fill='none' stroke='#1b1b1b' stroke-width='2' marker-end='url(#ai)'/>
+<polyline points='502,165 558,165' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)'/>
+<text x='530' y='185' font-size='11' text-anchor='middle' fill='#1458a8' font-weight='normal'>sinc.</text>
+<polyline points='502,278 928,278' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)'/>
+<text x='700' y='271' font-size='12' text-anchor='middle' fill='#1458a8' font-weight='normal'>pulsos de botón</text>
+<polyline points='502,415 530,415 530,350 558,350' fill='none' stroke='#1b1b1b' stroke-width='2' marker-end='url(#ai)'/>
+<text x='520' y='405' font-size='12' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>ticks</text>
+<polyline points='842,140 928,140' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)'/>
+<text x='885' y='132' font-size='12' text-anchor='middle' fill='#1458a8' font-weight='normal'>moneda_ok</text>
+<polyline points='842,175 928,175' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)'/>
+<text x='885' y='167' font-size='12' text-anchor='middle' fill='#1458a8' font-weight='normal'>valor</text>
+<polyline points='842,210 928,210' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)'/>
+<text x='885' y='202' font-size='12' text-anchor='middle' fill='#1458a8' font-weight='normal'>atasco</text>
+<polyline points='842,340 928,340' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)'/>
+<text x='885' y='332' font-size='12' text-anchor='middle' fill='#1458a8' font-weight='normal'>fin_30s</text>
+<polyline points='842,495 928,495' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)' marker-start='url(#as)'/>
+<text x='885' y='487' font-size='11' text-anchor='middle' fill='#1458a8' font-weight='normal'>± saldo</text>
+<polyline points='842,650 928,650' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)' marker-start='url(#as)'/>
+<text x='885' y='642' font-size='11' text-anchor='middle' fill='#1458a8' font-weight='normal'>precio,</text>
+<text x='885' y='672' font-size='11' text-anchor='middle' fill='#1458a8' font-weight='normal'>vender</text>
+<polyline points='1232,155 1288,155' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)'/>
+<text x='1260' y='147' font-size='12' text-anchor='middle' fill='#1458a8' font-weight='normal'>posición</text>
+<polyline points='1232,330 1288,330' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)'/>
+<text x='1260' y='322' font-size='11' text-anchor='middle' fill='#1458a8' font-weight='normal'>msg</text>
+<polyline points='700,550 700,565 1262,565 1262,300 1288,300' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)'/>
+<text x='1090' y='559' font-size='12' text-anchor='middle' fill='#1458a8' font-weight='normal'>saldo, precio (a mensajes)</text>
+<polyline points='1430,400 1430,428' fill='none' stroke='#1b1b1b' stroke-width='2' marker-end='url(#ai)'/>
+<polyline points='1232,635 1288,635' fill='none' stroke='#1458a8' stroke-width='2' marker-end='url(#as)'/>
+<text x='1260' y='627' font-size='12' text-anchor='middle' fill='#1458a8' font-weight='normal'>estado</text>
+<polyline points='1430,220 1430,250 1590,250 1590,800 1572,800' fill='none' stroke='#1b1b1b' stroke-width='2' marker-end='url(#ai)'/>
+<polyline points='1430,550 1430,560 1580,560 1580,780 1572,780' fill='none' stroke='#1b1b1b' stroke-width='2' marker-end='url(#ai)'/>
+<text x='30' y='800' font-size='13' text-anchor='start' fill='#5f6368' font-weight='normal'>Reset: el botón «Reset» no es el reset de la FPGA; la FSM pasa por DEVOLVER y luego vuelve a REPOSO.</text>
+<text x='30' y='822' font-size='13' text-anchor='start' fill='#5f6368' font-weight='normal'>Al encender, la FSM abre el depósito hacia devolución (si se fue la luz con monedas dentro, salen).</text>
+<text x='30' y='844' font-size='13' text-anchor='start' fill='#5f6368' font-weight='normal'>Precios y cantidades máximas son constantes/genéricos: cambiar un precio = cambiar una constante y regenerar el bitstream.</text>
+<text x='30' y='866' font-size='13' text-anchor='start' fill='#5f6368' font-weight='normal'>Sin sensor de caída de producto (decisión 2026-11-11). Sonido: más adelante (salida de audio PWM de la Nexys).</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyNjA1ZDU2OS0xOWMyLTQ5ZjItYmZlOS0zYTcyN2ZlMDNiOGYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMe1LI96FhHPzInSqBs7wfcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxZjJkMmI3OC1hYzIxLTRiN2EtOTQxYy03ZmE4Y2Q1NGMxZTVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNosYENJsT0RmjaQdrta5KzuAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggKCW3t164/uBaAUBAPPfHUjZVa1xh0t4AleCnsDPGT+ikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJd2JPJh0KKnhR941QnXnv4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIM7OGn6DzVb0TrFz5FdSuC7Q3ooVxe+JLYrQUwE6FdanZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GTuOZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjI2MDVkNTY5LTE5YzItNDlmMi1iZmU5LTNhNzI3ZmUwM2I4Zi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjExMDlmMDg4LWY1MDAtNDRjYi04NTZiLWFiYzAzZGNlYjQ2OXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAoJbe3Xrj+4FoBQEA898dSNlVrXGHS3gCV4KewM8ZP6KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg792HWe4LAZv2BB8NQ9NsOvKHV6ajsdm1WeOKRpuAGHmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggbx3U2k1m1zHjPm2yPiltQm3BEQmN7M8YJif9MHdflh50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHexrW+WKegg66eumJ32BFkDYMOpExj3qiG8Q2b9DxBZ0sixXUUZWtBaTCN+ydYqYdkg83vi7VW9q5RgteFwUYg=</c2pa:manifest></metadata></svg>

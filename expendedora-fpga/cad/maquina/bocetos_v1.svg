@@ -1,0 +1,255 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2100 1300' width='2100' height='1300' font-family='DejaVu Sans, Arial, sans-serif' xmlns:c2pa="http://c2pa.org/manifest">
+<defs><marker id='ar' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M0,0L10,5L0,10z' fill='context-stroke'/></marker><marker id='ab' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M0,0L10,5L0,10z' fill='#1458a8'/></marker><marker id='ak' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M0,0L10,5L0,10z' fill='#1b1b1b'/></marker><marker id='ag' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M0,0L10,5L0,10z' fill='#2e7d32'/></marker><marker id='arr' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M0,0L10,5L0,10z' fill='#c62828'/></marker><pattern id='hat' width='6' height='6' patternUnits='userSpaceOnUse' patternTransform='rotate(45)'><line x1='0' y1='0' x2='0' y2='6' stroke='#b9a98f' stroke-width='1.2'/></pattern></defs>
+<rect width='2100' height='1300' fill='white'/>
+<text x='30.0' y='42.0' font-size='26' text-anchor='start' fill='#1b1b1b' font-weight='bold'>Máquina expendedora · bocetos generales (v1)</text>
+<text x='30.0' y='68.0' font-size='14' text-anchor='start' fill='#6b6f75' font-weight='normal'>Medidas aproximadas en mm · alto 420 (+ Nexys encima) × ancho 330 × fondo 400 · tableros de 8 mm · cabe en el 60 × 40 × 40 previsto</text>
+<text x='150.0' y='111.0' font-size='16' text-anchor='start' fill='#1b1b1b' font-weight='bold'>1 · Corte lateral por la columna de monedas</text>
+<rect x='150.0' y='552.4' width='380.0' height='7.6' rx='0' fill='url(#hat)' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='150.0' y='161.0' width='380.0' height='7.6' rx='0' fill='url(#hat)' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='150.0' y='168.6' width='7.6' height='383.8' rx='0' fill='#efe3cf' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='522.4' y='168.6' width='7.6' height='383.8' rx='0' fill='#efe3cf' stroke='#1b1b1b' stroke-width='1.2' stroke-dasharray='5 3'/>
+<line x1='511.0' y1='346.2' x2='526.2' y2='370.0' stroke='#6b6f75' stroke-width='0.8'/>
+<circle cx='526.2' cy='370.0' r='2' fill='#6b6f75'/>
+<text x='508.0' y='343.2' font-size='10' text-anchor='end' fill='#6b6f75' font-weight='normal'>trasera</text>
+<text x='508.0' y='355.2' font-size='10' text-anchor='end' fill='#6b6f75' font-weight='normal'>en guías</text>
+<text x='528.1' y='373.8' font-size='1' text-anchor='start' fill='#1b1b1b' font-weight='normal'></text>
+<polygon points='150.0,235.1 300.1,263.6 292.5,206.6 150.0,181.9' fill='#fff1d6' stroke='#1b1b1b' stroke-width='1.2'/>
+<polyline points='153.8,225.6 294.4,250.3' fill='none' stroke='#1458a8' stroke-width='2'/>
+<circle cx='169.0' cy='223.3' r='2.1' fill='#ffb300' stroke='none' stroke-width='1.2'/>
+<circle cx='187.1' cy='226.4' r='2.1' fill='#ffb300' stroke='none' stroke-width='1.2'/>
+<circle cx='205.1' cy='229.6' r='2.1' fill='#ffb300' stroke='none' stroke-width='1.2'/>
+<circle cx='223.1' cy='232.8' r='2.1' fill='#ffb300' stroke='none' stroke-width='1.2'/>
+<circle cx='241.2' cy='236.0' r='2.1' fill='#ffb300' stroke='none' stroke-width='1.2'/>
+<circle cx='259.2' cy='239.2' r='2.1' fill='#ffb300' stroke='none' stroke-width='1.2'/>
+<circle cx='277.3' cy='242.3' r='2.1' fill='#ffb300' stroke='none' stroke-width='1.2'/>
+<line x1='264.0' y1='184.8' x2='216.5' y2='206.6' stroke='#1b1b1b' stroke-width='0.8'/>
+<circle cx='216.5' cy='206.6' r='2' fill='#1b1b1b'/>
+<text x='267.0' y='181.8' font-size='11' text-anchor='start' fill='#1b1b1b' font-weight='normal'>carril A · 150 mm a 10°</text>
+<text x='267.0' y='194.8' font-size='11' text-anchor='start' fill='#1b1b1b' font-weight='normal'>7 barreras IR (P1, B1-B5, P2)</text>
+<line x1='121.5' y1='212.3' x2='155.7' y2='216.10000000000002' stroke='#1458a8' stroke-width='1.6' marker-end='url(#ab)'/>
+<text x='119.6' y='206.6' font-size='11' text-anchor='end' fill='#1458a8' font-weight='normal'>monedas</text>
+<rect x='282.7' y='259.8' width='43.7' height='38.0' rx='0' fill='#fff1d6' stroke='#1b1b1b' stroke-width='1.2'/>
+<polyline points='283.7,287.4 325.5,287.4' fill='none' stroke='#1b1b1b' stroke-width='2.5'/>
+<text x='304.6' y='272.2' font-size='12' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>B</text>
+<text x='304.6' y='283.6' font-size='9.5' text-anchor='middle' fill='#6b6f75' font-weight='normal'>válido</text>
+<polyline points='304.6,305.4 343.5,330.1' fill='none' stroke='#1b1b1b' stroke-width='2'/>
+<polyline points='304.6,305.4 271.6,327.2 271.6,457.4' fill='none' stroke='#1b1b1b' stroke-width='1.5'/>
+<polyline points='245.0,311.1 245.0,480.2' fill='none' stroke='#1b1b1b' stroke-width='1.5'/>
+<polyline points='283.0,322.5 258.3,335.8 258.3,453.6' fill='none' stroke='#c62828' stroke-width='1.3' stroke-dasharray='4 3' marker-end='url(#arr)'/>
+<line x1='283.0' y1='365.2' x2='258.3' y2='393.8' stroke='#c62828' stroke-width='0.8'/>
+<circle cx='258.3' cy='393.8' r='2' fill='#c62828'/>
+<text x='286.0' y='362.2' font-size='10' text-anchor='start' fill='#c62828' font-weight='normal'>no válidas</text>
+<text x='286.0' y='374.2' font-size='10' text-anchor='start' fill='#c62828' font-weight='normal'>y monedas de más</text>
+<rect x='340.0' y='338.6' width='43.7' height='66.5' rx='0' fill='#fff1d6' stroke='#1b1b1b' stroke-width='1.2'/>
+<polyline points='340.9,394.7 382.8,394.7' fill='none' stroke='#1b1b1b' stroke-width='2.5'/>
+<text x='361.9' y='352.9' font-size='12' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>C</text>
+<text x='361.9' y='365.2' font-size='9.5' text-anchor='middle' fill='#6b6f75' font-weight='normal'>escrow</text>
+<text x='361.9' y='376.6' font-size='9.5' text-anchor='middle' fill='#6b6f75' font-weight='normal'>20 mon.</text>
+<polyline points='310.3,326.3 343.5,328.2' fill='none' stroke='#2e7d32' stroke-width='1.3' stroke-dasharray='4 3' marker-end='url(#ag)'/>
+<polyline points='237.4,493.5 361.9,412.8 403.6,437.4' fill='none' stroke='#1b1b1b' stroke-width='2'/>
+<polyline points='403.6,437.4 403.6,465.9' fill='none' stroke='#1b1b1b' stroke-width='1.5'/>
+<polyline points='342.9,433.6 304.9,457.4' fill='none' stroke='#c62828' stroke-width='1.3' stroke-dasharray='4 3' marker-end='url(#arr)'/>
+<polyline points='375.1,428.0 399.9,444.1' fill='none' stroke='#2e7d32' stroke-width='1.3' stroke-dasharray='4 3' marker-end='url(#ag)'/>
+<line x1='302.0' y1='427.0' x2='323.9' y2='436.5' stroke='#1b1b1b' stroke-width='0.8'/>
+<circle cx='323.9' cy='436.5' r='2' fill='#1b1b1b'/>
+<text x='305.0' y='424.0' font-size='10' text-anchor='start' fill='#1b1b1b' font-weight='normal'>rampas ≥ 30°</text>
+<rect x='150.0' y='498.2' width='90.2' height='54.1' rx='2' fill='#f1e6f7' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='197.5' y='522.0' font-size='10' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>devolución</text>
+<text x='197.5' y='533.4' font-size='10' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>y cambio</text>
+<rect x='392.2' y='469.8' width='137.8' height='82.6' rx='2' fill='#f1e6f7' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='457.3' y='512.5' font-size='11' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>hucha</text>
+<text x='457.3' y='525.8' font-size='9.5' text-anchor='middle' fill='#6b6f75' font-weight='normal'>sale por detrás</text>
+<rect x='157.6' y='242.7' width='24.7' height='34.2' rx='0' fill='#e6f4ea' stroke='#1b1b1b' stroke-width='1.2'/>
+<line x1='112.0' y1='256.0' x2='169.9' y2='259.8' stroke='#1b1b1b' stroke-width='0.8'/>
+<circle cx='169.9' cy='259.8' r='2' fill='#1b1b1b'/>
+<text x='109.0' y='253.0' font-size='10.5' text-anchor='end' fill='#1b1b1b' font-weight='normal'>LCD 16×2</text>
+<rect x='157.6' y='296.9' width='5.7' height='73.1' rx='0' fill='#e6f4ea' stroke='#1b1b1b' stroke-width='1.2'/>
+<line x1='112.0' y1='327.2' x2='160.4' y2='332.0' stroke='#1b1b1b' stroke-width='0.8'/>
+<circle cx='160.4' cy='332.0' r='2' fill='#1b1b1b'/>
+<text x='109.0' y='324.2' font-size='10.5' text-anchor='end' fill='#1b1b1b' font-weight='normal'>numpad 3×4</text>
+<rect x='144.3' y='387.1' width='30.4' height='11.4' rx='3' fill='#ffcdd2' stroke='#1b1b1b' stroke-width='1.2'/>
+<line x1='112.0' y1='389.0' x2='146.2' y2='392.8' stroke='#1b1b1b' stroke-width='0.8'/>
+<circle cx='146.2' cy='392.8' r='2' fill='#1b1b1b'/>
+<text x='109.0' y='386.0' font-size='10.5' text-anchor='end' fill='#1b1b1b' font-weight='normal'>cancelar</text>
+<line x1='112.0' y1='493.5' x2='148.1' y2='522.0' stroke='#1b1b1b' stroke-width='0.8'/>
+<circle cx='148.1' cy='522.0' r='2' fill='#1b1b1b'/>
+<text x='109.0' y='490.5' font-size='10' text-anchor='end' fill='#1b1b1b' font-weight='normal'>cajón a ras</text>
+<text x='109.0' y='502.5' font-size='10' text-anchor='end' fill='#1b1b1b' font-weight='normal'>(muesca para el dedo)</text>
+<rect x='264.0' y='145.8' width='247.0' height='15.2' rx='0' fill='#e6f4ea' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='387.5' y='157.2' font-size='9.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>Nexys + placas hijas (al aire, sobre el techo)</text>
+<line x1='511.0' y1='153.40000000000003' x2='558.5' y2='153.40000000000003' stroke='#1b1b1b' stroke-width='1' marker-end='url(#ak)'/>
+<text x='560.4' y='157.2' font-size='10' text-anchor='start' fill='#1b1b1b' font-weight='normal'>USB + 5 V</text>
+<polyline points='463.5,168.6 463.5,237.0' fill='none' stroke='#2e7d32' stroke-width='1' stroke-dasharray='2 3'/>
+<text x='467.3' y='218.0' font-size='9.5' text-anchor='start' fill='#2e7d32' font-weight='normal'>cables</text>
+<line x1='658.2' y1='560.0' x2='658.2' y2='161.0' stroke='#c62828' stroke-width='0.9' marker-start='url(#arr)' marker-end='url(#arr)'/>
+<text x='662.2' y='360.5' font-size='11' fill='#c62828' text-anchor='start'>alto 420</text>
+<line x1='150.0' y1='586.6' x2='530.0' y2='586.6' stroke='#c62828' stroke-width='0.9' marker-start='url(#arr)' marker-end='url(#arr)'/>
+<text x='340.0' y='600.6' font-size='11' text-anchor='middle' fill='#c62828' font-weight='normal'>fondo 400</text>
+<line x1='530.0' y1='225.6' x2='537.6' y2='225.6' stroke='#c62828' stroke-width='0.8'/>
+<text x='540.6' y='229.6' font-size='10.5' text-anchor='start' fill='#c62828' font-weight='normal'>352 entrada monedas</text>
+<line x1='530.0' y1='259.8' x2='537.6' y2='259.8' stroke='#c62828' stroke-width='0.8'/>
+<text x='540.6' y='263.8' font-size='10.5' text-anchor='start' fill='#c62828' font-weight='normal'>316 cubilete B</text>
+<line x1='530.0' y1='338.6' x2='537.6' y2='338.6' stroke='#c62828' stroke-width='0.8'/>
+<text x='540.6' y='342.6' font-size='10.5' text-anchor='start' fill='#c62828' font-weight='normal'>233 escrow C</text>
+<line x1='530.0' y1='469.8' x2='537.6' y2='469.8' stroke='#c62828' stroke-width='0.8'/>
+<text x='540.6' y='473.8' font-size='10.5' text-anchor='start' fill='#c62828' font-weight='normal'>95 cajones</text>
+<text x='112.0' y='605.6' font-size='1' text-anchor='start' fill='#1b1b1b' font-weight='normal'></text>
+<text x='1120.0' y='111.0' font-size='16' text-anchor='start' fill='#1b1b1b' font-weight='bold'>2 · Corte lateral por los productos</text>
+<rect x='1120.0' y='552.4' width='380.0' height='7.6' rx='0' fill='url(#hat)' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='1120.0' y='161.0' width='380.0' height='7.6' rx='0' fill='url(#hat)' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='1120.0' y='460.2' width='7.6' height='92.1' rx='0' fill='#efe3cf' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='1120.0' y='168.6' width='7.6' height='11.4' rx='0' fill='#efe3cf' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='1120.0' y='180.0' width='2.8' height='280.2' rx='0' fill='#e8f6fb' stroke='#1458a8' stroke-width='1.2' stroke-dasharray='4 3'/>
+<line x1='1082.0' y1='246.5' x2='1121.0' y2='275.0' stroke='#1458a8' stroke-width='0.8'/>
+<circle cx='1121.0' cy='275.0' r='2' fill='#1458a8'/>
+<text x='1079.0' y='243.5' font-size='10' text-anchor='end' fill='#1458a8' font-weight='normal'>ventana</text>
+<text x='1079.0' y='255.5' font-size='10' text-anchor='end' fill='#1458a8' font-weight='normal'>(metacrilato</text>
+<text x='1079.0' y='267.5' font-size='10' text-anchor='end' fill='#1458a8' font-weight='normal'>opcional)</text>
+<rect x='1492.4' y='168.6' width='7.6' height='383.8' rx='0' fill='#efe3cf' stroke='#1b1b1b' stroke-width='1.2' stroke-dasharray='5 3'/>
+<rect x='1177.0' y='317.8' width='315.4' height='5.7' rx='0' fill='url(#hat)' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='1182.7' y='222.8' width='95.0' height='95.0' rx='3' fill='#fde2e2' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='1230.2' y='274.1' font-size='10' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>producto</text>
+<text x='1230.2' y='287.4' font-size='10' text-anchor='middle' fill='#6b6f75' font-weight='normal'>1 · 2</text>
+<rect x='1286.2' y='268.4' width='28.5' height='20.9' rx='0' fill='#bbdefb' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='1300.5' y='281.7' font-size='8.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>SG90</text>
+<polyline points='1286.2,278.8 1279.6,278.8' fill='none' stroke='#1b1b1b' stroke-width='2.5'/>
+<line x1='1283.4' y1='260.75' x2='1253.0' y2='260.75' stroke='#c62828' stroke-width='1.2' marker-end='url(#arr)'/>
+<rect x='1177.0' y='455.5' width='315.4' height='5.7' rx='0' fill='url(#hat)' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='1182.7' y='360.5' width='95.0' height='95.0' rx='3' fill='#fde2e2' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='1230.2' y='411.8' font-size='10' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>producto</text>
+<text x='1230.2' y='425.1' font-size='10' text-anchor='middle' fill='#6b6f75' font-weight='normal'>3 · 4</text>
+<rect x='1286.2' y='406.1' width='28.5' height='20.9' rx='0' fill='#bbdefb' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='1300.5' y='419.4' font-size='8.5' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>SG90</text>
+<polyline points='1286.2,416.6 1279.6,416.6' fill='none' stroke='#1b1b1b' stroke-width='2.5'/>
+<line x1='1283.4' y1='398.5' x2='1253.0' y2='398.5' stroke='#c62828' stroke-width='1.2' marker-end='url(#arr)'/>
+<line x1='1357.5' y1='203.8' x2='1314.8' y2='278.8' stroke='#1b1b1b' stroke-width='0.8'/>
+<circle cx='1314.8' cy='278.8' r='2' fill='#1b1b1b'/>
+<text x='1360.5' y='200.8' font-size='10' text-anchor='start' fill='#1b1b1b' font-weight='normal'>empujador o trampilla</text>
+<text x='1360.5' y='212.8' font-size='10' text-anchor='start' fill='#1b1b1b' font-weight='normal'>(1 SG90 por producto)</text>
+<polyline points='1158.0,327.2 1158.0,464.1' fill='none' stroke='#c62828' stroke-width='1.3' stroke-dasharray='4 3' marker-end='url(#arr)'/>
+<line x1='1186.5' y1='370.0' x2='1158.0' y2='389.0' stroke='#1b1b1b' stroke-width='0.8'/>
+<circle cx='1158.0' cy='389.0' r='2' fill='#1b1b1b'/>
+<text x='1189.5' y='367.0' font-size='10' text-anchor='start' fill='#1b1b1b' font-weight='normal'>caída por delante</text>
+<text x='1189.5' y='379.0' font-size='10' text-anchor='start' fill='#1b1b1b' font-weight='normal'>de los estantes</text>
+<rect x='1120.0' y='469.8' width='237.5' height='82.6' rx='2' fill='#f1e6f7' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='1238.8' y='512.5' font-size='11' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>cajón de recogida</text>
+<text x='1238.8' y='525.8' font-size='9.5' text-anchor='middle' fill='#6b6f75' font-weight='normal'>apoyado en el suelo, a ras del frontal</text>
+<rect x='1362.2' y='484.0' width='130.2' height='68.4' rx='0' fill='none' stroke='#1b1b1b' stroke-width='1.2' stroke-dasharray='4 3'/>
+<text x='1428.8' y='518.2' font-size='9.5' text-anchor='middle' fill='#6b6f75' font-weight='normal'>hueco libre</text>
+<text x='1428.8' y='530.5' font-size='9.5' text-anchor='middle' fill='#6b6f75' font-weight='normal'>(fuente, cables)</text>
+<rect x='1234.0' y='145.8' width='247.0' height='15.2' rx='0' fill='#e6f4ea' stroke='#1b1b1b' stroke-width='1.2'/>
+<line x1='1614.0' y1='560.0' x2='1614.0' y2='161.0' stroke='#c62828' stroke-width='0.9' marker-start='url(#arr)' marker-end='url(#arr)'/>
+<text x='1618.0' y='360.5' font-size='11' fill='#c62828' text-anchor='start'>alto 420</text>
+<line x1='1500.0' y1='317.8' x2='1507.6' y2='317.8' stroke='#c62828' stroke-width='0.8'/>
+<text x='1510.6' y='321.8' font-size='10.5' text-anchor='start' fill='#c62828' font-weight='normal'>255 estante 1-2</text>
+<line x1='1500.0' y1='455.5' x2='1507.6' y2='455.5' stroke='#c62828' stroke-width='0.8'/>
+<text x='1510.6' y='459.5' font-size='10.5' text-anchor='start' fill='#c62828' font-weight='normal'>110 estante 3-4</text>
+<line x1='1500.0' y1='469.8' x2='1507.6' y2='469.8' stroke='#c62828' stroke-width='0.8'/>
+<text x='1510.6' y='473.8' font-size='10.5' text-anchor='start' fill='#c62828' font-weight='normal'>95 cajón</text>
+<text x='110.0' y='698.0' font-size='16' text-anchor='start' fill='#1b1b1b' font-weight='bold'>3 · Frontal</text>
+<rect x='110.0' y='748.0' width='363.0' height='462.0' rx='0' fill='#efe3cf' stroke='#1b1b1b' stroke-width='1.6'/>
+<rect x='239.8' y='770.0' width='218.9' height='324.5' rx='0' fill='#e8f6fb' stroke='#1458a8' stroke-width='1.2'/>
+<rect x='132.0' y='789.8' width='3.7' height='27.5' rx='0' fill='#333' stroke='#1b1b1b' stroke-width='1.2'/>
+<line x1='176.0' y1='775.5' x2='134.2' y2='797.5' stroke='#1b1b1b' stroke-width='0.8'/>
+<circle cx='134.2' cy='797.5' r='2' fill='#1b1b1b'/>
+<text x='179.0' y='772.5' font-size='10' text-anchor='start' fill='#1b1b1b' font-weight='normal'>ranura monedas</text>
+<rect x='135.3' y='842.6' width='88.0' height='39.6' rx='2' fill='#9ccc65' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='179.3' y='865.7' font-size='10' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>LCD 16×2</text>
+<rect x='140.8' y='905.3' width='77.0' height='84.7' rx='3' fill='#eceff1' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='146.3' y='910.8' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='155.1' y='921.8' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>1</text>
+<rect x='170.5' y='910.8' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='179.3' y='921.8' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>2</text>
+<rect x='194.7' y='910.8' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='203.5' y='921.8' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>3</text>
+<rect x='146.3' y='930.6' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='155.1' y='941.6' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>4</text>
+<rect x='170.5' y='930.6' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='179.3' y='941.6' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>5</text>
+<rect x='194.7' y='930.6' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='203.5' y='941.6' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>6</text>
+<rect x='146.3' y='950.4' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='155.1' y='961.4' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>7</text>
+<rect x='170.5' y='950.4' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='179.3' y='961.4' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>8</text>
+<rect x='194.7' y='950.4' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='203.5' y='961.4' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>9</text>
+<rect x='146.3' y='970.2' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='155.1' y='981.2' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>*</text>
+<rect x='170.5' y='970.2' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='179.3' y='981.2' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>0</text>
+<rect x='194.7' y='970.2' width='17.6' height='15.4' rx='2' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='203.5' y='981.2' font-size='9' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>#</text>
+<circle cx='179.3' cy='1016.4' r='6.6' fill='#e53935' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='194.7' y='1019.7' font-size='10' text-anchor='start' fill='#1b1b1b' font-weight='normal'>cancelar</text>
+<rect x='126.5' y='1138.5' width='99.0' height='60.5' rx='2' fill='#f1e6f7' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='166.1' y='1138.5' width='26.4' height='14.3' rx='4' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='179.3' y='1179.2' font-size='10' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>devolución</text>
+<rect x='248.6' y='929.5' width='201.3' height='3.3' rx='0' fill='#8d6e63' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='259.6' y='819.5' width='82.5' height='110.0' rx='3' fill='#fde2e2' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='300.3' y='880.0' font-size='22' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>1</text>
+<rect x='364.1' y='819.5' width='82.5' height='110.0' rx='3' fill='#fde2e2' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='404.8' y='880.0' font-size='22' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>2</text>
+<rect x='248.6' y='1089.0' width='201.3' height='3.3' rx='0' fill='#8d6e63' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='259.6' y='979.0' width='82.5' height='110.0' rx='3' fill='#fde2e2' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='300.3' y='1039.5' font-size='22' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>3</text>
+<rect x='364.1' y='979.0' width='82.5' height='110.0' rx='3' fill='#fde2e2' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='404.8' y='1039.5' font-size='22' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>4</text>
+<rect x='250.8' y='1105.5' width='202.4' height='93.5' rx='2' fill='#f1e6f7' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='339.9' y='1105.5' width='33.0' height='14.3' rx='4' fill='white' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='356.4' y='1166.0' font-size='10' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>salida de productos (cajón)</text>
+<polyline points='239.8,1201.2 239.8,756.8' fill='none' stroke='#1b1b1b' stroke-width='0.8' stroke-dasharray='3 3'/>
+<line x1='110.0' y1='1227.6' x2='473.0' y2='1227.6' stroke='#c62828' stroke-width='0.9' marker-start='url(#arr)' marker-end='url(#arr)'/>
+<text x='291.5' y='1241.6' font-size='11' text-anchor='middle' fill='#c62828' font-weight='normal'>ancho 330</text>
+<line x1='110.0' y1='732.6' x2='239.8' y2='732.6' stroke='#c62828' stroke-width='0.9' marker-start='url(#arr)' marker-end='url(#arr)'/>
+<text x='174.9' y='726.6' font-size='11' text-anchor='middle' fill='#c62828' font-weight='normal'>monedas 110</text>
+<line x1='239.8' y1='732.6' x2='473.0' y2='732.6' stroke='#c62828' stroke-width='0.9' marker-start='url(#arr)' marker-end='url(#arr)'/>
+<text x='356.4' y='726.6' font-size='11' text-anchor='middle' fill='#c62828' font-weight='normal'>productos 204</text>
+<line x1='92.4' y1='1210.0' x2='92.4' y2='748.0' stroke='#c62828' stroke-width='0.9' marker-start='url(#arr)' marker-end='url(#arr)'/>
+<text x='88.4' y='979.0' font-size='11' fill='#c62828' text-anchor='end'>420</text>
+<text x='640.0' y='728.4' font-size='16' text-anchor='start' fill='#1b1b1b' font-weight='bold'>4 · Superior (techo)</text>
+<rect x='640.0' y='798.0' width='323.4' height='392.0' rx='0' fill='#efe3cf' stroke='#1b1b1b' stroke-width='1.6'/>
+<rect x='647.8' y='805.8' width='107.8' height='376.3' rx='0' fill='url(#hat)' stroke='none' stroke-width='1.2'/>
+<text x='701.7' y='1160.6' font-size='9' text-anchor='middle' fill='#6b6f75' font-weight='normal'>columna de monedas debajo</text>
+<rect x='821.3' y='815.6' width='127.4' height='117.6' rx='0' fill='#c8e6c9' stroke='#2e7d32' stroke-width='1.5'/>
+<text x='885.0' y='866.6' font-size='12' text-anchor='middle' fill='#1b1b1b' font-weight='bold'>Nexys 4 DDR</text>
+<text x='885.0' y='882.3' font-size='10' text-anchor='middle' fill='#6b6f75' font-weight='normal'>130 × 120</text>
+<rect x='836.0' y='800.0' width='14.7' height='15.7' rx='0' fill='#555' stroke='#1b1b1b' stroke-width='1.2'/>
+<rect x='875.2' y='800.0' width='11.8' height='13.7' rx='0' fill='#555' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='885.0' y='794.1' font-size='10' text-anchor='middle' fill='#2e7d32' font-weight='normal'>USB y jack hacia atrás</text>
+<rect x='777.2' y='959.7' width='161.7' height='53.9' rx='0' fill='#fff9c4' stroke='#1b1b1b' stroke-width='1.2'/>
+<text x='857.6' y='989.1' font-size='10' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>protoboard → placa soldada</text>
+<rect x='659.6' y='856.8' width='88.2' height='88.2' rx='0' fill='#fff9c4' stroke='#1b1b1b' stroke-width='1.2' stroke-dasharray='4 3'/>
+<text x='703.7' y='898.0' font-size='10' text-anchor='middle' fill='#1b1b1b' font-weight='normal'>placa hija 2</text>
+<text x='703.7' y='910.7' font-size='9' text-anchor='middle' fill='#6b6f75' font-weight='normal'>(servos)</text>
+<rect x='777.2' y='933.2' width='34.3' height='6.9' rx='0' fill='#555' stroke='#1b1b1b' stroke-width='1.2'/>
+<line x1='826.2' y1='1043.0' x2='794.8' y2='937.2' stroke='#1b1b1b' stroke-width='0.8'/>
+<circle cx='794.8' cy='937.2' r='2' fill='#1b1b1b'/>
+<text x='829.2' y='1040.0' font-size='10' text-anchor='start' fill='#1b1b1b' font-weight='normal'>paso de cables al interior</text>
+<text x='801.7' y='1205.7' font-size='11' text-anchor='middle' fill='#6b6f75' font-weight='normal'>frontal</text>
+<line x1='640.0' y1='1225.3' x2='963.4' y2='1225.3' stroke='#c62828' stroke-width='0.9' marker-start='url(#arr)' marker-end='url(#arr)'/>
+<text x='801.7' y='1239.3' font-size='11' text-anchor='middle' fill='#c62828' font-weight='normal'>330</text>
+<line x1='977.1' y1='1190.0' x2='977.1' y2='798.0' stroke='#c62828' stroke-width='0.9' marker-start='url(#arr)' marker-end='url(#arr)'/>
+<text x='981.1' y='994.0' font-size='11' fill='#c62828' text-anchor='start'>400</text>
+<text x='1220.0' y='708.4' font-size='16' text-anchor='start' fill='#1b1b1b' font-weight='bold'>5 · Isométrica (frontal a la izquierda)</text>
+<polygon points='1220.0,1170.0 1414.3,1282.2 1414.3,996.6 1220.0,884.4' fill='#efe3cf' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1414.3,1282.2 1649.9,1146.2 1649.9,860.6 1414.3,996.6' fill='#e6d6bb' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1220.0,884.4 1414.3,996.6 1649.9,860.6 1455.6,748.4' fill='#f6eedf' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1289.5,1138.7 1406.7,1206.4 1406.7,1005.8 1289.5,938.1' fill='#e8f6fb' stroke='#1458a8' stroke-width='1.2'/>
+<polygon points='1300.1,1042.8 1344.3,1068.3 1344.3,1000.3 1300.1,974.8' fill='#fde2e2' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1356.0,1075.1 1400.2,1100.6 1400.2,1032.6 1356.0,1007.1' fill='#fde2e2' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1300.1,1141.4 1344.3,1166.9 1344.3,1098.9 1300.1,1073.4' fill='#fde2e2' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1356.0,1173.7 1400.2,1199.2 1400.2,1131.2 1356.0,1105.7' fill='#fde2e2' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1231.8,934.0 1233.8,935.2 1233.8,918.2 1231.8,917.0' fill='#333' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1233.5,975.2 1280.7,1002.4 1280.7,977.9 1233.5,950.7' fill='#9ccc65' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1236.5,1043.5 1277.7,1067.3 1277.7,1015.0 1236.5,991.2' fill='#eceff1' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1253.6,1073.8 1260.6,1077.9 1260.6,1069.7 1253.6,1065.6' fill='#e53935' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1228.8,1168.3 1281.8,1198.9 1281.8,1161.5 1228.8,1130.9' fill='#f1e6f7' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1295.4,1206.7 1403.7,1269.3 1403.7,1211.5 1295.4,1148.9' fill='#f1e6f7' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1483.2,858.2 1559.8,902.4 1630.5,861.6 1553.9,817.4' fill='#c8e6c9' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1408.4,870.8 1505.6,926.9 1538.0,908.2 1440.8,852.1' fill='#fff9c4' stroke='#1b1b1b' stroke-width='1.2'/>
+<polygon points='1564.5,1190.1 1645.2,1143.5 1645.2,1084.3 1564.5,1130.9' fill='none' stroke='#1b1b1b' stroke-width='1.2' stroke-dasharray='4 3'/>
+<text x='1616.7' y='1136.0' font-size='10' text-anchor='start' fill='#6b6f75' font-weight='normal'>hucha</text>
+<text x='1556.8' y='837.9' font-size='10.5' text-anchor='middle' fill='#2e7d32' font-weight='bold'>Nexys</text>
+<text x='30.0' y='1285.0' font-size='12' text-anchor='start' fill='#6b6f75' font-weight='normal'>Supuestos: depósito C de 40 × 40 × 70 (20 monedas), rampas a 30-33°, cajones de 55-85 mm de alto, productos de hasta 75 × 100 de frente. Las cotas del carril y de B salen del modelo; el resto es aproximado.</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiNThhODY1OC1hZjczLTQzYzAtYjNjMi1kYThjNGFhNDg5ODQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaF6MdEcuOjYEGGG7/oOjJa0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3ZWE4N2VlZi00ZmVkLTRjYWItYWNjZi0xOGRkNTU2YjAxZDRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoV3Biouv/jO7bzikE8C/MWwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggn4JU/8lZSZ5bMbTVis1LpLY07ZvUDKs4vWhX3jS32cOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaH9DbpW6fB4BeXAwhJ89UtAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIGfEWQwHITX0DKhBsYIrXdby2mTlbzkzubT86QCWf2kfZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GXLTZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmI1OGE4NjU4LWFmNzMtNDNjMC1iM2MyLWRhOGM0YWE0ODk4NC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjM0NWFiMWU3LWEwMjYtNGQxOC1iNmViLTRmNWQ3NDc2OTcxMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCfglT/yVlJnlsxtNWKzUuktjTtm9QMqzi9aFfeNLfZw6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggxAj1az3M8KIllQ1g59kREmLLrfCzhYx16nysC5RoQveiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg6wCMsVxIl/kyBbgOTmzcf4X+l6YLVuJKaZOZlXJgHMl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAfFxWdb+bQv6purYrgjDj58SdktdyzF1shO0AT6BcTy10FiOzAi7mTXK5yko3S+FVD+POnJDpL8XjQuM/IiATE=</c2pa:manifest></metadata></svg>
